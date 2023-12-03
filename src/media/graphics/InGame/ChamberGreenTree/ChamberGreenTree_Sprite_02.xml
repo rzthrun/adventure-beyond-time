@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6289dbf482ae44dcaaede4348a72aef8:01c1160778af5c6a10c7e9828e34fdbb:ead3537b31c9fbc28a29bfa2368073e0$ -->
+<TextureAtlas imagePath="ChamberGreenTree_Sprite_02.atf">
+    <SubTexture name="blue_tree" x="2" y="2" width="465" height="326"/>
+    <SubTexture name="blue_tree_lit" x="2" y="330" width="465" height="326"/>
+    <SubTexture name="tube_green" x="2" y="658" width="266" height="147"/>
+    <SubTexture name="tube_white" x="2" y="807" width="266" height="147"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:beca02691f836a7b88a054c6795c2496:f05a1e1e2ca6c210062f29d78fd5dd4b:e87a56051a7b34c31e2dee01d234635c$ -->
+<TextureAtlas imagePath="FreighterWall_Sprite_01.png">
+    <SubTexture name="fire_00" x="2" y="347" width="19" height="116"/>
+    <SubTexture name="fire_01" x="2" y="2" width="128" height="57"/>
+    <SubTexture name="fire_02" x="2" y="61" width="127" height="90"/>
+    <SubTexture name="fire_03" x="2" y="153" width="36" height="192"/>
+    <SubTexture name="fire_04" x="132" y="2" width="111" height="176"/>
+</TextureAtlas>

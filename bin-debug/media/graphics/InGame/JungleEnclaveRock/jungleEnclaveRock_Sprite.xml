@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:698157cbe08c03e7cde7e96e8b53b37f:b937879c54a39a8e6196741802b8e72e:7c21e9c3ec331a4052a8fcee0e343245$ -->
+<TextureAtlas imagePath="jungleEnclaveRock_Sprite.atf">
+    <SubTexture name="lid_off" x="2" y="363" width="255" height="308"/>
+    <SubTexture name="lid_on" x="2" y="2" width="313" height="359"/>
+    <SubTexture name="seal" x="317" y="2" width="169" height="146"/>
+</TextureAtlas>

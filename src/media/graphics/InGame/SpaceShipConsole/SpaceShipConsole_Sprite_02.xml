@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f8bd4e0630d88242f45c292814bee636:d2ed97a50902ac7574a495e56a2d8b4f:5c6c2c63df78dbea736dbc668e0a5df6$ -->
+<TextureAtlas imagePath="SpaceShipConsole_Sprite_02.png">
+    <SubTexture name="tricorder" x="0" y="0" width="64" height="80"/>
+</TextureAtlas>

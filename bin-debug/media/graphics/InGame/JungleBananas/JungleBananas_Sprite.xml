@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:af446c81b7a82b5f91a6891346872f17:0811baef348d2b5bb9526f4b0857d6e9:759946a02b02d097888f7c451d5e7f63$ -->
+<TextureAtlas imagePath="JungleBananas_Sprite.png">
+    <SubTexture name="bananas" x="2" y="2" width="168" height="163"/>
+</TextureAtlas>

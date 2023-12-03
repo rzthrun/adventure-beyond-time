@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7325fb47643272c551fc20cfc59cdfdf:0f503e88bda7f2f1e8221dc41dfec3ba:646c34fe83abf11d7db1343b6af374a0$ -->
+<TextureAtlas imagePath="FarCoastCliff_Sprite_02.atf">
+    <SubTexture name="card" x="107" y="221" width="92" height="48"/>
+    <SubTexture name="chopped_01" x="168" y="2" width="75" height="71"/>
+    <SubTexture name="chopped_02" x="168" y="75" width="75" height="71"/>
+    <SubTexture name="chopped_03" x="168" y="148" width="75" height="71"/>
+    <SubTexture name="trunk_down" x="2" y="2" width="164" height="155"/>
+    <SubTexture name="trunk_up" x="2" y="159" width="103" height="182"/>
+</TextureAtlas>

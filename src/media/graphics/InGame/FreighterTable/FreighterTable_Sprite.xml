@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:5c1a973d87417bfcecbcf83a388c11cf:09621987600c5abd5c118ff0055b130d:78204e8756617db7fc8f64ffa3f069a2$ -->
+<TextureAtlas imagePath="FreighterTable_Sprite.atf">
+    <SubTexture name="close_compass" x="2" y="2" width="414" height="463"/>
+    <SubTexture name="close_needle" x="482" y="2" width="26" height="354"/>
+    <SubTexture name="compass" x="2" y="628" width="181" height="180"/>
+    <SubTexture name="needle" x="418" y="2" width="62" height="56"/>
+    <SubTexture name="pull" x="2" y="467" width="349" height="159"/>
+</TextureAtlas>

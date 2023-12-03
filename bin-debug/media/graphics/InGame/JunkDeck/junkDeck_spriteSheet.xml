@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:24215e7ef0a15b43160a2f58666ae720:10c464a5c21a20c052fbe5411f64ee68:d0d91312b996116f3e7d11c0a8f0d15c$ -->
+<TextureAtlas imagePath="junkDeck_spriteSheet.atf">
+    <SubTexture name="hatch_open" x="2" y="2" width="317" height="270"/>
+</TextureAtlas>

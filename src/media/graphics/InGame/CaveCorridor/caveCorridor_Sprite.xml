@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:518934565c25a3eb4277fa4fcca883af:548119065a752a1d728ca0d7c96e3d13:aea99095cf9d37107923aeae6a26f6c8$ -->
+<TextureAtlas imagePath="caveCorridor_Sprite.atf">
+    <SubTexture name="fire_01" x="419" y="2" width="78" height="108"/>
+    <SubTexture name="fire_02" x="419" y="112" width="78" height="108"/>
+    <SubTexture name="fire_03" x="419" y="222" width="78" height="108"/>
+    <SubTexture name="marcasite" x="2" y="442" width="118" height="99"/>
+    <SubTexture name="torch" x="2" y="2" width="415" height="438"/>
+</TextureAtlas>

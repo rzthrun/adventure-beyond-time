@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e6bb7967c22f80bc3ec6529ca43acbae:92eceb4835aced6f2af5c8e3884c000e:cac203bf7c776b3f892eb9d9951a1b2e$ -->
+<TextureAtlas imagePath="CavePirateCannon_Sprite.atf">
+    <SubTexture name="lid" x="2" y="2" width="344" height="294"/>
+    <SubTexture name="packed_powder" x="348" y="2" width="81" height="81"/>
+    <SubTexture name="packed_spent" x="2" y="298" width="278" height="144"/>
+    <SubTexture name="spark" x="431" y="2" width="31" height="70" frameX="0" frameY="-1" frameWidth="31" frameHeight="71"/>
+    <SubTexture name="wick" x="2" y="444" width="49" height="57"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:dc41cdc312e1c27f02065c35effcde52:6d73e9f48e117f160a3cffe1c1a1b4e6:20b26269a4b386b75ed404c2ff7db02b$ -->
+<TextureAtlas imagePath="pirateCaptainsPainting_Sprite.atf">
+    <SubTexture name="left" x="0" y="0" width="397" height="467"/>
+    <SubTexture name="right" x="399" y="0" width="420" height="450"/>
+    <SubTexture name="turtle_down" x="821" y="162" width="118" height="146"/>
+    <SubTexture name="turtle_up" x="821" y="0" width="141" height="160"/>
+</TextureAtlas>

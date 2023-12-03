@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f292dcc01a31cd9e7770758527908556:ed34b4c047d79011a4a92c3b86f27ece:cf29f22c29f27d63456cadafe1bfe705$ -->
+<TextureAtlas imagePath="SpaceShipOven_Sprite_03.png">
+    <SubTexture name="disc_A01" x="293" y="2" width="287" height="288" frameX="0" frameY="0" frameWidth="290" frameHeight="290"/>
+    <SubTexture name="disc_A02" x="2" y="622" width="289" height="290" frameX="0" frameY="0" frameWidth="290" frameHeight="290"/>
+    <SubTexture name="disc_B01" x="2" y="2" width="289" height="308" frameX="-15" frameY="0" frameWidth="308" frameHeight="308"/>
+    <SubTexture name="disc_B02" x="2" y="312" width="289" height="308" frameX="-15" frameY="0" frameWidth="308" frameHeight="308"/>
+    <SubTexture name="disc_C01" x="582" y="2" width="268" height="265" frameX="-1" frameY="-3" frameWidth="269" frameHeight="269"/>
+    <SubTexture name="disc_C02" x="582" y="269" width="268" height="265" frameX="-1" frameY="-3" frameWidth="269" frameHeight="269"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:22dcd8da92c57a83a8e4185d4a215b28:78dc45d5e04ed1b1a245f798a091ac03:054fd14a121617b4cccf3c1ad232affd$ -->
+<TextureAtlas imagePath="MountainDig_Sprite.png">
+    <SubTexture name="excavate_dragonball_full" x="97" y="111" width="68" height="70"/>
+    <SubTexture name="excavate_dragonball_out" x="97" y="183" width="68" height="70"/>
+    <SubTexture name="excavate_hominid_full" x="135" y="2" width="93" height="107"/>
+    <SubTexture name="excavate_hominid_half" x="2" y="111" width="93" height="107"/>
+    <SubTexture name="supply_boxLid" x="2" y="2" width="131" height="74"/>
+    <SubTexture name="supply_trowel" x="2" y="220" width="85" height="34"/>
+</TextureAtlas>

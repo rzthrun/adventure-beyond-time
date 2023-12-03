@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:31b3351c5299d97bb4881451258109e3:3ec2aa04abdb84ae3062777fbad50e33:b0c54da067ae05de8e3762b42aba01bd$ -->
+<TextureAtlas imagePath="FirstMatesLetter_Sprite.png">
+    <SubTexture name="FirstMatesLetter_pageFour" x="2" y="2" width="378" height="508" frameX="-211" frameY="-2" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="FirstMatesLetter_pageOne" x="2" y="512" width="378" height="508" frameX="-211" frameY="-2" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="FirstMatesLetter_pageThree" x="382" y="2" width="378" height="508" frameX="-211" frameY="-2" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="FirstMatesLetter_pageTwo" x="382" y="512" width="378" height="508" frameX="-211" frameY="-2" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

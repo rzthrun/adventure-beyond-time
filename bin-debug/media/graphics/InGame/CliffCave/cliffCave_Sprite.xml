@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ceb92d4a661c1d267a62c9bef303e7c5:fbd5414e0f38ec1076425816ed18be67:182fcd049d2af84163726da100cf98e8$ -->
+<TextureAtlas imagePath="cliffCave_Sprite.atf">
+    <SubTexture name="door_open" x="2" y="2" width="328" height="282"/>
+    <SubTexture name="door_seal" x="332" y="208" width="17" height="19"/>
+    <SubTexture name="waterflow_bottom_01" x="2" y="286" width="609" height="204"/>
+    <SubTexture name="waterflow_bottom_02" x="332" y="2" width="609" height="204"/>
+    <SubTexture name="waterflow_bottom_03" x="2" y="492" width="1" height="1" frameX="0" frameY="0" frameWidth="609" frameHeight="204"/>
+    <SubTexture name="waterflow_top_01" x="613" y="208" width="202" height="188" frameX="-12" frameY="-2" frameWidth="214" frameHeight="190"/>
+    <SubTexture name="waterflow_top_02" x="817" y="208" width="202" height="188" frameX="-12" frameY="-2" frameWidth="214" frameHeight="190"/>
+    <SubTexture name="waterflow_top_03" x="2" y="492" width="1" height="1" frameX="0" frameY="0" frameWidth="214" frameHeight="190"/>
+</TextureAtlas>

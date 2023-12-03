@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:9d4fab9bce74363e5ab0391086c13b5d:9811e209824dd5f2a7d74b02c857d989:c77f7a76cab942a3f411414c8468bbea$ -->
+<TextureAtlas imagePath="CoastCaveCombo_Sprite.png">
+    <SubTexture name="sec_0_pos_00" x="2" y="2" width="184" height="263"/>
+    <SubTexture name="sec_0_pos_01" x="188" y="2" width="184" height="263"/>
+    <SubTexture name="sec_0_pos_02" x="374" y="2" width="184" height="263"/>
+    <SubTexture name="sec_0_pos_03" x="560" y="2" width="184" height="263"/>
+    <SubTexture name="sec_0_pos_04" x="746" y="2" width="184" height="263"/>
+    <SubTexture name="sec_0_pos_05" x="2" y="267" width="184" height="263"/>
+    <SubTexture name="sec_0_pos_06" x="188" y="267" width="184" height="263"/>
+    <SubTexture name="sec_0_pos_07" x="374" y="267" width="184" height="263"/>
+    <SubTexture name="sec_0_pos_08" x="560" y="267" width="184" height="263"/>
+    <SubTexture name="sec_1_pos_00" x="746" y="267" width="171" height="254"/>
+    <SubTexture name="sec_1_pos_01" x="746" y="523" width="171" height="254"/>
+    <SubTexture name="sec_1_pos_02" x="2" y="532" width="171" height="254"/>
+    <SubTexture name="sec_1_pos_03" x="175" y="532" width="171" height="254"/>
+    <SubTexture name="sec_1_pos_04" x="348" y="532" width="171" height="254"/>
+    <SubTexture name="sec_1_pos_05" x="521" y="532" width="171" height="254"/>
+    <SubTexture name="sec_1_pos_06" x="694" y="779" width="171" height="254"/>
+    <SubTexture name="sec_1_pos_07" x="2" y="788" width="171" height="254"/>
+    <SubTexture name="sec_1_pos_08" x="175" y="788" width="171" height="254"/>
+    <SubTexture name="sec_2_pos_00" x="348" y="788" width="169" height="250"/>
+    <SubTexture name="sec_2_pos_01" x="519" y="788" width="169" height="250"/>
+    <SubTexture name="sec_2_pos_02" x="690" y="1035" width="169" height="250"/>
+    <SubTexture name="sec_2_pos_03" x="348" y="1040" width="169" height="250"/>
+    <SubTexture name="sec_2_pos_04" x="519" y="1040" width="169" height="250"/>
+    <SubTexture name="sec_2_pos_05" x="690" y="1287" width="169" height="250"/>
+    <SubTexture name="sec_2_pos_06" x="2" y="1044" width="169" height="250"/>
+    <SubTexture name="sec_2_pos_07" x="173" y="1044" width="169" height="250"/>
+    <SubTexture name="sec_2_pos_08" x="344" y="1292" width="169" height="250"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7f1c9d72992292ae56e091a89704c32e:c847c64a75e966581e15afad5d193c65:e37e12cd1356a86db7710f7ad35cfa02$ -->
+<TextureAtlas imagePath="SpaceShipOven_Sprite_02.atf">
+    <SubTexture name="anima_glow" x="306" y="2" width="132" height="136"/>
+    <SubTexture name="anima_lasers" x="306" y="280" width="104" height="94"/>
+    <SubTexture name="anima_red" x="2" y="2" width="302" height="343"/>
+    <SubTexture name="anima_teleport" x="306" y="140" width="112" height="138"/>
+    <SubTexture name="off_bar" x="420" y="218" width="81" height="30"/>
+    <SubTexture name="off_bar_closed" x="420" y="250" width="81" height="30"/>
+    <SubTexture name="off_lid_closed" x="2" y="347" width="261" height="213"/>
+    <SubTexture name="on_bar" x="412" y="282" width="81" height="30"/>
+    <SubTexture name="on_bar_closed" x="412" y="314" width="81" height="30"/>
+    <SubTexture name="on_lid_closed" x="2" y="562" width="261" height="213"/>
+    <SubTexture name="on_plasma" x="440" y="2" width="46" height="106"/>
+    <SubTexture name="on_plasma_closed" x="440" y="110" width="46" height="106"/>
+</TextureAtlas>

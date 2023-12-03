@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:8e57235b13557441cbfcd67a0c7e83e5:f2e20e64a562dc39bbbd244025fe2939:e57a130f9c06b2ef958e9cb395bc01d7$ -->
+<TextureAtlas imagePath="Lab_Sprite.png">
+    <SubTexture name="desk_alcohol_closed" x="153" y="192" width="36" height="43"/>
+    <SubTexture name="desk_alcohol_open" x="189" y="138" width="36" height="43"/>
+    <SubTexture name="desk_lid" x="2" y="138" width="70" height="107"/>
+    <SubTexture name="desk_mortar" x="74" y="120" width="64" height="34"/>
+    <SubTexture name="desk_solder" x="142" y="110" width="96" height="26"/>
+    <SubTexture name="equipment_hose" x="142" y="2" width="102" height="106"/>
+    <SubTexture name="equipment_machine_machine_screen" x="74" y="156" width="77" height="67"/>
+    <SubTexture name="equipment_printer_crystal" x="227" y="138" width="22" height="37"/>
+    <SubTexture name="equipment_printer_goo" x="74" y="225" width="51" height="20"/>
+    <SubTexture name="equipment_printer_stone" x="153" y="138" width="34" height="52"/>
+    <SubTexture name="equipment_screen" x="2" y="2" width="138" height="116"/>
+    <SubTexture name="equipment_slide" x="2" y="120" width="30" height="8"/>
+</TextureAtlas>

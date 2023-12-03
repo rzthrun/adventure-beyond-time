@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:45dd5bd893b2901e7412e3101124a624:e34662dcc04ba5f8f125ebbc747c928f:a09804f9edcf8551b663289a932a0a15$ -->
+<TextureAtlas imagePath="CoastCaveBox_Sprite.atf">
+    <SubTexture name="celtic" x="638" y="2" width="167" height="121"/>
+    <SubTexture name="lid" x="2" y="2" width="634" height="417"/>
+    <SubTexture name="stone" x="807" y="2" width="139" height="108"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0e80bebed5cdf0a63335d410bf04cdeb:29d9f3f9a03e93adce0b14240aa8d195:552240b0cbbcf2e8d691096dfd81f54b$ -->
+<TextureAtlas imagePath="JunkTopDeck_Sprite_02.atf">
+    <SubTexture name="tigerScroll" x="2" y="2" width="755" height="512" frameX="-23" frameY="0" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

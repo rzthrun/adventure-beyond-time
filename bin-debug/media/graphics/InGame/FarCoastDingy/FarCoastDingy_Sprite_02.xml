@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:2edfb695e39a22c28980ef71126a221c:12b497f93d13d52496006e469d2380c8:168db1c4409ba270474e4759b8b9fa47$ -->
+<TextureAtlas imagePath="FarCoastDingy_Sprite_02.png">
+    <SubTexture name="TwentyThousand_page_00" x="2" y="1508" width="354" height="493" frameX="-225" frameY="-6" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="TwentyThousand_page_01" x="2" y="2" width="686" height="500" frameX="-64" frameY="-3" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="TwentyThousand_page_02" x="2" y="504" width="686" height="500" frameX="-64" frameY="-3" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="TwentyThousand_page_03" x="2" y="1006" width="686" height="500" frameX="-64" frameY="-3" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

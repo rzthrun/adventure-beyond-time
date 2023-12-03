@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7a3f4b9abbacccae1a54d6d758db9bef:f466cb26110a231a4e34cc198b799395:e3ab3bfc1fedac425c12e458c918ea9b$ -->
+<TextureAtlas imagePath="F:/TFC-v0001/COMPRESSION/InGame/LabComputer/os2/LabComputer_Sprite.png/LabComputer_Sprite.png">
+    <SubTexture name="disk_icon" x="1630" y="192" width="116" height="131"/>
+    <SubTexture name="iss_disk" x="1721" y="2" width="263" height="188"/>
+    <SubTexture name="iss_fail" x="2" y="942" width="255" height="55"/>
+    <SubTexture name="iss_primes" x="1258" y="174" width="247" height="188"/>
+    <SubTexture name="iss_signal" x="1258" y="2" width="461" height="170"/>
+    <SubTexture name="iss_success" x="259" y="942" width="255" height="55"/>
+    <SubTexture name="page_crystal" x="2" y="2" width="626" height="468"/>
+    <SubTexture name="page_disc" x="2" y="472" width="626" height="468"/>
+    <SubTexture name="page_iss" x="630" y="2" width="626" height="468"/>
+    <SubTexture name="page_pascal" x="630" y="472" width="626" height="468"/>
+    <SubTexture name="sound_icon" x="1507" y="174" width="121" height="150"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:bcd8a1f2272d50b561dcdc7e7483c1e9:7c60791d45b61a928990a8278d753557:c1e65cd891f6215a07e637fc88df9142$ -->
+<TextureAtlas imagePath="CavePirateDitch_Sprite.atf">
+    <SubTexture name="coin" x="204" y="2" width="118" height="86"/>
+    <SubTexture name="ditch" x="2" y="269" width="518" height="215"/>
+    <SubTexture name="ditch_plank" x="324" y="2" width="131" height="50"/>
+    <SubTexture name="jug" x="204" y="90" width="126" height="79"/>
+    <SubTexture name="plank" x="2" y="2" width="200" height="265"/>
+</TextureAtlas>

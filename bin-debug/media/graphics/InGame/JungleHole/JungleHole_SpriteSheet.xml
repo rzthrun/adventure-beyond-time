@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:4757322b6853c350fc94ee2af6bdaca9:8f8184fb641659c25de7258b6b991e33:309b7776474f13028637f31600349f2a$ -->
+<TextureAtlas imagePath="JungleHole_SpriteSheet.atf">
+    <SubTexture name="book" x="2" y="747" width="168" height="205"/>
+    <SubTexture name="cover_off" x="2" y="398" width="251" height="347"/>
+    <SubTexture name="cover_on" x="2" y="2" width="434" height="394"/>
+</TextureAtlas>

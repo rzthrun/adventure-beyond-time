@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:bef83285a606f195b681b2704b66c240:27eb2ac4d240b500dda340efbe4492fc:7c1189bd437a19e56d9ac526b008df70$ -->
+<TextureAtlas imagePath="JungleHole_SpriteSheet_02.atf">
+    <SubTexture name="buc_page_one" x="2" y="510" width="636" height="506" frameX="-83" frameY="-1" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="buc_page_two" x="2" y="2" width="636" height="506" frameX="-83" frameY="-1" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="buc_page_zero" x="640" y="2" width="336" height="504" frameX="-230" frameY="-2" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

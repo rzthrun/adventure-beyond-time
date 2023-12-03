@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0e21a38119b6a5237651a60176ebff47:a050cf4b5d29377d295a726e23306afc:0f49e35949d9e109511fa0a183e55851$ -->
+<TextureAtlas imagePath="LabDesk_Sprite.png">
+    <SubTexture name="bottle_cover" x="353" y="273" width="38" height="60"/>
+    <SubTexture name="bottle_open" x="462" y="296" width="38" height="60"/>
+    <SubTexture name="cabinet_open" x="270" y="2" width="160" height="172"/>
+    <SubTexture name="detail_m_flowers" x="432" y="2" width="67" height="41"/>
+    <SubTexture name="detail_m_flowers_mushroom" x="432" y="45" width="67" height="41"/>
+    <SubTexture name="detail_m_mix" x="432" y="88" width="67" height="41"/>
+    <SubTexture name="detail_m_mushroom" x="432" y="131" width="67" height="41"/>
+    <SubTexture name="detail_m_water" x="432" y="174" width="67" height="41"/>
+    <SubTexture name="detail_m_water_flowers" x="270" y="301" width="67" height="41"/>
+    <SubTexture name="detail_m_water_flowers_mushroom" x="393" y="296" width="67" height="41"/>
+    <SubTexture name="detail_m_water_mushroom" x="339" y="339" width="67" height="41"/>
+    <SubTexture name="detail_mortar" x="403" y="217" width="93" height="77"/>
+    <SubTexture name="detail_solder" x="270" y="176" width="131" height="95"/>
+    <SubTexture name="disk" x="270" y="273" width="81" height="26"/>
+    <SubTexture name="screen_blue" x="2" y="2" width="266" height="173"/>
+    <SubTexture name="screen_ubuntu" x="2" y="177" width="266" height="173"/>
+</TextureAtlas>

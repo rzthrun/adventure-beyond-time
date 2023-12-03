@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3a52052f7e37f8cc647ee4ae76bbf00e:235c8e477c649c1f1dd563dc1c59d76a:e2bed200a5c7f2b20366d0c41fbff8c7$ -->
+<TextureAtlas imagePath="ChamberRedTriangle_Sprite.jpg">
+    <SubTexture name="chamberRedTriangle_bg" x="0" y="0" width="800" height="512"/>
+    <SubTexture name="chamberRedTriangle_bg_lit" x="0" y="512" width="800" height="512"/>
+</TextureAtlas>

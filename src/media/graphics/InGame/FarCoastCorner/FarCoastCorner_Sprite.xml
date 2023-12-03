@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:394df973b095688542f6d842df58658e:a58aa367b510d5581971354a128d0e44:236c2dc4636c0ce535a4a6b88e5af904$ -->
+<TextureAtlas imagePath="FarCoastCorner_Sprite.png">
+    <SubTexture name="waterfall_001" x="2" y="2" width="202" height="152"/>
+    <SubTexture name="waterfall_002" x="2" y="156" width="202" height="152"/>
+    <SubTexture name="waterfall_003" x="2" y="310" width="202" height="152"/>
+</TextureAtlas>

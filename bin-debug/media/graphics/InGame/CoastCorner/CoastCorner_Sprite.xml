@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ac683c72b26bbadc70016fc1d3e5b927:8d8544b3488f6a5a6833ed4b62825300:f7d0a13ffda9275a97555b92adfb164b$ -->
+<TextureAtlas imagePath="CoastCorner_Sprite.png">
+    <SubTexture name="moai_disc" x="2" y="56" width="16" height="15"/>
+    <SubTexture name="moai_eye_eye_left" x="47" y="2" width="7" height="6"/>
+    <SubTexture name="moai_eye_eye_right" x="56" y="2" width="5" height="6"/>
+    <SubTexture name="moai_mouth" x="2" y="2" width="43" height="52"/>
+</TextureAtlas>

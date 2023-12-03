@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c633dff5990e9849a028df256c1e8aec:92e10e16cdf5f6ef4208f39d93a0f988:c265dcd3d00d08cacf082e45a9630e14$ -->
+<TextureAtlas imagePath="CoastCaveExterior_Sprite.png">
+    <SubTexture name="skeleton_shell" x="2" y="2" width="26" height="16"/>
+</TextureAtlas>

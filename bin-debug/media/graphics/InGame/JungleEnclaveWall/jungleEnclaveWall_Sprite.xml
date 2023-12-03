@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b015d195dc8bf0b3e3200145bdffd442:603504b3ffba86e01abc482cfc431d1d:f5775a9474e697f42d21dec037959bdf$ -->
+<TextureAtlas imagePath="jungleEnclaveWall_Sprite.png">
+    <SubTexture name="arms" x="2" y="2" width="202" height="118"/>
+    <SubTexture name="dragonball" x="2" y="122" width="135" height="126"/>
+</TextureAtlas>

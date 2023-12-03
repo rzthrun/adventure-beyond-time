@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:5bcdb3082cf7d035fbaeaeeaedb1ae7a:30e1e9b011a04cc275b9a380f82c7eb0:b3d926d9d8ac5e852faa2c493b41a18c$ -->
+<TextureAtlas imagePath="InvenDetails_SpriteSheet_v007.png">
+    <SubTexture name="inven_detail_armMars" x="2" y="575" width="190" height="191" frameX="-3" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_armSun" x="2" y="193" width="194" height="189" frameX="0" frameY="-1" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_bananas" x="2" y="768" width="186" height="183" frameX="-3" frameY="-1" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_potatoes" x="2" y="384" width="193" height="189" frameX="-2" frameY="-1" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_potatoesWired" x="2" y="2" width="195" height="189" frameX="0" frameY="-2" frameWidth="195" frameHeight="191"/>
+</TextureAtlas>

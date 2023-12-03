@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c26dafba58bbd58f29524d0aaa7d0206:63b3def615daac05478e3c3451407715:16d6ae106ad97f7f9e880f06cbe350da$ -->
+<TextureAtlas imagePath="SubmarineCaptainsTable_Sprite.png">
+    <SubTexture name="floppy" x="2" y="165" width="127" height="56"/>
+    <SubTexture name="screen" x="2" y="2" width="251" height="161"/>
+</TextureAtlas>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:1fd32b86e034d16ccc6826ab14a83d55:2149aa4f463fe83cb5594751c0cc4d59:5c9a14b093e6513767d93f43a9ccab86$ -->
+<TextureAtlas imagePath="CavePirateTopDeck_Sprite_Two.png">
+    <SubTexture name="cage" x="125" y="2" width="71" height="169" frameX="0" frameY="0" frameWidth="71" frameHeight="171"/>
+    <SubTexture name="cannon_lid" x="2" y="186" width="51" height="52"/>
+    <SubTexture name="door" x="2" y="2" width="121" height="182"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ddc4ff31e8c0f18960580081ab329f7e:71f15be114b60dcc7f4f694d25ca5c6f:37083182e343efe3ca32d35ff7c07d13$ -->
+<TextureAtlas imagePath="PrintOut_Sprite.atf">
+    <SubTexture name="printOut" x="0" y="0" width="568" height="512"/>
+</TextureAtlas>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:497ce0b237d23db8aa525c2fded0383e:f1e70ce79c42507d8708e542a292a355:363b173e460eb122860e6fa1ea50c49e$ -->
+<TextureAtlas imagePath="TriremeDevice_Moon_Sprite.png">
+    <SubTexture name="anima_0001" x="2" y="2" width="39" height="39"/>
+    <SubTexture name="anima_0002" x="43" y="2" width="39" height="39"/>
+    <SubTexture name="anima_0003" x="84" y="2" width="39" height="39"/>
+    <SubTexture name="anima_0004" x="125" y="2" width="39" height="39"/>
+    <SubTexture name="anima_0005" x="166" y="2" width="39" height="39"/>
+    <SubTexture name="anima_0006" x="207" y="2" width="39" height="39"/>
+    <SubTexture name="anima_0007" x="2" y="43" width="39" height="39"/>
+    <SubTexture name="anima_0008" x="43" y="43" width="39" height="39"/>
+    <SubTexture name="anima_0009" x="84" y="43" width="39" height="39"/>
+    <SubTexture name="anima_0010" x="125" y="43" width="39" height="39"/>
+    <SubTexture name="anima_0011" x="166" y="43" width="39" height="39"/>
+    <SubTexture name="anima_0012" x="207" y="43" width="39" height="39"/>
+    <SubTexture name="anima_0013" x="2" y="84" width="39" height="39"/>
+    <SubTexture name="anima_0014" x="43" y="84" width="39" height="39"/>
+    <SubTexture name="anima_0015" x="84" y="84" width="39" height="39"/>
+    <SubTexture name="anima_0016" x="125" y="84" width="39" height="39"/>
+    <SubTexture name="anima_0017" x="166" y="84" width="39" height="39"/>
+    <SubTexture name="anima_0018" x="207" y="84" width="39" height="39"/>
+    <SubTexture name="anima_0019" x="2" y="125" width="39" height="39"/>
+    <SubTexture name="anima_0020" x="43" y="125" width="39" height="39"/>
+    <SubTexture name="anima_0021" x="84" y="125" width="39" height="39"/>
+    <SubTexture name="anima_0022" x="125" y="125" width="39" height="39"/>
+    <SubTexture name="anima_0023" x="166" y="125" width="39" height="39"/>
+    <SubTexture name="anima_0024" x="207" y="125" width="39" height="39"/>
+    <SubTexture name="anima_0025" x="2" y="166" width="39" height="39"/>
+    <SubTexture name="anima_0026" x="43" y="166" width="39" height="39"/>
+    <SubTexture name="anima_0027" x="84" y="166" width="39" height="39"/>
+    <SubTexture name="anima_0028" x="125" y="166" width="39" height="39"/>
+    <SubTexture name="anima_0029" x="166" y="166" width="39" height="39"/>
+    <SubTexture name="anima_0030" x="207" y="166" width="39" height="39"/>
+    <SubTexture name="anima_0031" x="2" y="207" width="39" height="39"/>
+    <SubTexture name="anima_0032" x="43" y="207" width="39" height="39"/>
+    <SubTexture name="anima_0033" x="84" y="207" width="39" height="39"/>
+    <SubTexture name="anima_0034" x="125" y="207" width="39" height="39"/>
+    <SubTexture name="anima_0035" x="166" y="207" width="39" height="39"/>
+    <SubTexture name="anima_0036" x="207" y="207" width="39" height="39"/>
+    <SubTexture name="anima_0037" x="2" y="248" width="39" height="39"/>
+    <SubTexture name="anima_0038" x="43" y="248" width="39" height="39"/>
+    <SubTexture name="anima_0039" x="84" y="248" width="39" height="39"/>
+    <SubTexture name="anima_0040" x="125" y="248" width="39" height="39"/>
+    <SubTexture name="anima_0041" x="166" y="248" width="39" height="39"/>
+    <SubTexture name="anima_0042" x="207" y="248" width="39" height="39"/>
+    <SubTexture name="anima_0043" x="2" y="289" width="39" height="39"/>
+    <SubTexture name="anima_0044" x="43" y="289" width="39" height="39"/>
+    <SubTexture name="anima_0045" x="84" y="289" width="39" height="39"/>
+    <SubTexture name="anima_0046" x="125" y="289" width="39" height="39"/>
+    <SubTexture name="anima_0047" x="166" y="289" width="39" height="39"/>
+    <SubTexture name="anima_0048" x="207" y="289" width="39" height="39"/>
+    <SubTexture name="anima_0049" x="2" y="330" width="39" height="39"/>
+    <SubTexture name="anima_0050" x="43" y="330" width="39" height="39"/>
+    <SubTexture name="anima_0051" x="84" y="330" width="39" height="39"/>
+    <SubTexture name="anima_0052" x="125" y="330" width="39" height="39"/>
+    <SubTexture name="anima_0053" x="166" y="330" width="39" height="39"/>
+    <SubTexture name="anima_0054" x="207" y="330" width="39" height="39"/>
+    <SubTexture name="anima_0055" x="2" y="371" width="39" height="39"/>
+    <SubTexture name="anima_0056" x="43" y="371" width="39" height="39"/>
+    <SubTexture name="anima_0057" x="84" y="371" width="39" height="39"/>
+    <SubTexture name="anima_0058" x="125" y="371" width="39" height="39"/>
+    <SubTexture name="anima_0059" x="166" y="371" width="39" height="39"/>
+</TextureAtlas>

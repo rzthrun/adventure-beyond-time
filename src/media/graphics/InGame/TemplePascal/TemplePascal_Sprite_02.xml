@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:64960a63842ef16710b8369a0c73b242:72a6591ab8bfe056ac27b3bbaebd621a:f7dd1bd1fee0ccbaa81a46b311224c59$ -->
+<TextureAtlas imagePath="TemplePascal_Sprite_02.png">
+    <SubTexture name="dot_01" x="2" y="66" width="66" height="58"/>
+    <SubTexture name="dot_02" x="70" y="66" width="66" height="58"/>
+    <SubTexture name="dot_03" x="77" y="2" width="66" height="58"/>
+    <SubTexture name="dot_04" x="138" y="62" width="66" height="58"/>
+    <SubTexture name="dot_05" x="145" y="2" width="66" height="58"/>
+    <SubTexture name="dot_06" x="206" y="62" width="66" height="58"/>
+    <SubTexture name="dot_07" x="213" y="2" width="66" height="58"/>
+    <SubTexture name="dot_10" x="274" y="62" width="66" height="58"/>
+    <SubTexture name="dot_15" x="281" y="2" width="66" height="58"/>
+    <SubTexture name="dot_20" x="342" y="62" width="66" height="58"/>
+    <SubTexture name="dot_21" x="349" y="2" width="66" height="58"/>
+    <SubTexture name="dot_35" x="410" y="62" width="66" height="58"/>
+    <SubTexture name="outline" x="2" y="2" width="73" height="62"/>
+</TextureAtlas>

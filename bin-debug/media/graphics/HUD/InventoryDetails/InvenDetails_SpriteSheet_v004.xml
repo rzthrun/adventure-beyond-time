@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:871f65380e93a69bb09d74549ed3df9c:7ef14d4992aab26f8b1624f960f76ee4:4ae29854e10b20bb12289e36d7d67d83$ -->
+<TextureAtlas imagePath="InvenDetails_SpriteSheet_v004.png">
+    <SubTexture name="inven_detail_cannonTorch" x="385" y="766" width="189" height="189" frameX="-3" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_cannonTorchBurning" x="260" y="2" width="195" height="191"/>
+    <SubTexture name="inven_detail_compass" x="2" y="576" width="194" height="190" frameX="0" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_crystalRed" x="2" y="383" width="189" height="191" frameX="-6" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_dragonBallFive" x="576" y="764" width="188" height="187" frameX="-4" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_dragonBallOne" x="577" y="383" width="189" height="188" frameX="-4" frameY="-2" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_dragonBallSeven" x="768" y="383" width="188" height="188" frameX="-3" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_dragonBallThree" x="589" y="573" width="187" height="187" frameX="-4" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_dragonBallTwo" x="385" y="383" width="190" height="189" frameX="-1" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_lever" x="778" y="573" width="186" height="187" frameX="-4" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_motor" x="377" y="195" width="195" height="174" frameX="0" frameY="-15" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_mushroom" x="457" y="2" width="195" height="191"/>
+    <SubTexture name="inven_detail_plankOne" x="198" y="575" width="194" height="189" frameX="0" frameY="-2" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_plankTwo" x="193" y="383" width="190" height="190" frameX="-2" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_puller" x="654" y="2" width="195" height="190" frameX="0" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_redStoneOne" x="197" y="195" width="178" height="179" frameX="-7" frameY="-4" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_redStoneTwo" x="2" y="195" width="193" height="181" frameX="0" frameY="-4" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_screwdriver" x="394" y="574" width="193" height="188" frameX="-2" frameY="-2" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_shell" x="194" y="768" width="189" height="190" frameX="-1" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_torchBurning" x="654" y="194" width="195" height="187" frameX="0" frameY="-2" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_wires" x="2" y="2" width="256" height="191"/>
+    <SubTexture name="inven_detail_woodCircle" x="2" y="768" width="190" height="190" frameX="-2" frameY="-1" frameWidth="195" frameHeight="191"/>
+</TextureAtlas>

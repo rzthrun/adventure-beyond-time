@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:eef6637fbff2bffd3bcc920f20725a66:b486fca6c28b15cbd55d6becdb895648:ff7f7e83bb16cb54935b002d54f3b024$ -->
+<TextureAtlas imagePath="JungleVikingDeck_Sprite.atf">
+    <SubTexture name="trunk_lid" x="2" y="2" width="325" height="264"/>
+    <SubTexture name="tv_ball" x="485" y="102" width="22" height="19"/>
+    <SubTexture name="tv_lid" x="404" y="248" width="56" height="38"/>
+    <SubTexture name="tv_potato" x="329" y="102" width="154" height="73"/>
+    <SubTexture name="tv_potato_wires" x="329" y="2" width="160" height="98"/>
+    <SubTexture name="tv_screen_01" x="329" y="177" width="73" height="69"/>
+    <SubTexture name="tv_screen_02" x="404" y="177" width="73" height="69"/>
+    <SubTexture name="tv_screen_03" x="329" y="248" width="73" height="69"/>
+</TextureAtlas>

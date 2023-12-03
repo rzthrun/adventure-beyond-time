@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b998fe7a0047dfb2f984989112d436d9:d17f6b68e8aaa7da2f759ad39881e2c6:551f3f4e349e4e1a82f2ade627a101a9$ -->
+<TextureAtlas imagePath="pirateCaptainsPainting_Sprite_02.png">
+    <SubTexture name="page" x="0" y="0" width="389" height="512" frameX="-205" frameY="0" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

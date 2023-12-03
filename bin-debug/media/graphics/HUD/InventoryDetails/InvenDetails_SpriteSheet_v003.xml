@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:59ab8e3ca309be775f9646fa444f55ab:9697e4522cb91f141ada92e2164bf407:f0715b493273f42eb30645c21ec60129$ -->
+<TextureAtlas imagePath="InvenDetails_SpriteSheet_v003.png">
+    <SubTexture name="inven_detail_alcohol" x="370" y="556" width="135" height="189" frameX="-36" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_apple" x="2" y="558" width="178" height="172" frameX="-7" frameY="-7" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_celtic" x="199" y="189" width="195" height="178" frameX="0" frameY="-1" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_crystalGreen" x="2" y="732" width="177" height="185" frameX="0" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_hose" x="188" y="556" width="180" height="190" frameX="-12" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_hoseClean" x="199" y="2" width="195" height="185" frameX="0" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_satellite" x="181" y="748" width="172" height="187" frameX="-7" frameY="-4" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_slenderKey" x="2" y="2" width="195" height="191"/>
+    <SubTexture name="inven_detail_slide" x="2" y="195" width="192" height="188" frameX="-3" frameY="-3" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_slime" x="2" y="385" width="184" height="171" frameX="-4" frameY="-6" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_solder" x="196" y="369" width="191" height="185" frameX="0" frameY="-1" frameWidth="195" frameHeight="191"/>
+</TextureAtlas>

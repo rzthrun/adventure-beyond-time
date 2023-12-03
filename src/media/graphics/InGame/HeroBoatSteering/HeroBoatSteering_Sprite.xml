@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ced877898f9a3f255f78c93fda74e036:fe27dd6d58536ae099e1e46924096108:3728168198489632babf279a2c3a5799$ -->
+<TextureAtlas imagePath="HeroBoatSteering_Sprite.atf">
+    <SubTexture name="screwdriver" x="209" y="2" width="168" height="123"/>
+    <SubTexture name="throttle_down" x="2" y="2" width="205" height="233"/>
+    <SubTexture name="throttle_up" x="2" y="237" width="205" height="233"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:07b4ae45377c2f7c2f8c17495d7a79c7:9cf8c4c512c874504ee5339d5e3e5da6:062b6f891021da8a4956e26b59f863a9$ -->
+<TextureAtlas imagePath="jungleStumpPuzzle_Sprite_02.atf">
+    <SubTexture name="pirateDisc" x="2" y="2" width="259" height="255"/>
+</TextureAtlas>

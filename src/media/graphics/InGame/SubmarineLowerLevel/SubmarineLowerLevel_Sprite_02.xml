@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ec12e6712a29527df01f356dc2280f09:afb8a9000ecc1d4f01b7a8e78feaca7b:20bd310914bc1ae46dd00f2b0bb7b9a7$ -->
+<TextureAtlas imagePath="SubmarineLowerLevel_Sprite_02.jpg">
+    <SubTexture name="submarineLowerLevel_bg" x="0" y="0" width="800" height="512"/>
+    <SubTexture name="submarineLowerLevel_lit_bg" x="0" y="512" width="800" height="512"/>
+</TextureAtlas>

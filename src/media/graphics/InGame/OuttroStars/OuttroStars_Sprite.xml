@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:73aca0fb67255830f99e5fbaf6b56635:45400f90df8600744837f10bf954dd17:7c71a1d269fb48cb53854939fe5b1c0f$ -->
+<TextureAtlas imagePath="OuttroStars_Sprite.png">
+    <SubTexture name="stars_frame__01" x="2" y="2" width="400" height="256"/>
+    <SubTexture name="stars_frame__02" x="404" y="2" width="400" height="256"/>
+    <SubTexture name="stars_frame__03" x="806" y="2" width="400" height="256"/>
+    <SubTexture name="stars_frame__04" x="1208" y="2" width="400" height="256"/>
+    <SubTexture name="stars_frame__05" x="1610" y="2" width="400" height="256"/>
+    <SubTexture name="stars_frame__06" x="2" y="260" width="400" height="256"/>
+    <SubTexture name="stars_frame__07" x="404" y="260" width="400" height="256"/>
+    <SubTexture name="stars_frame__08" x="806" y="260" width="400" height="256"/>
+    <SubTexture name="stars_frame__09" x="1208" y="260" width="400" height="256"/>
+    <SubTexture name="stars_frame__10" x="1610" y="260" width="400" height="256"/>
+    <SubTexture name="stars_frame__11" x="2" y="518" width="400" height="256"/>
+    <SubTexture name="stars_frame__12" x="404" y="518" width="400" height="256"/>
+    <SubTexture name="stars_frame__13" x="806" y="518" width="400" height="256"/>
+    <SubTexture name="stars_frame__14" x="1208" y="518" width="400" height="256"/>
+    <SubTexture name="stars_frame__15" x="1610" y="518" width="400" height="256"/>
+    <SubTexture name="stars_frame__16" x="2" y="776" width="400" height="256"/>
+    <SubTexture name="stars_frame__17" x="404" y="776" width="400" height="256"/>
+    <SubTexture name="stars_frame__18" x="806" y="776" width="400" height="256"/>
+    <SubTexture name="stars_frame__19" x="1208" y="776" width="400" height="256"/>
+    <SubTexture name="stars_frame__20" x="1610" y="776" width="400" height="256"/>
+    <SubTexture name="stars_frame__21" x="2" y="1034" width="399" height="256" frameX="-1" frameY="0" frameWidth="400" frameHeight="256"/>
+    <SubTexture name="stars_frame__22" x="403" y="1034" width="400" height="256"/>
+    <SubTexture name="stars_frame__23" x="805" y="1034" width="400" height="256"/>
+    <SubTexture name="stars_frame__24" x="1207" y="1034" width="400" height="256"/>
+</TextureAtlas>

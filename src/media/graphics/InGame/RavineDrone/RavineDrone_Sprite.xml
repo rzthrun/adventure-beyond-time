@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:70720b9c21f4e37655d271010ef8ef35:cf4cd0a16be791b640afabfa6dbb0f51:812f02e389f7c6bba09e9f47994c1942$ -->
+<TextureAtlas imagePath="RavineDrone_Sprite.atf">
+    <SubTexture name="key" x="2" y="334" width="132" height="103"/>
+    <SubTexture name="lid" x="2" y="2" width="440" height="217"/>
+    <SubTexture name="satellite" x="2" y="221" width="145" height="111"/>
+</TextureAtlas>

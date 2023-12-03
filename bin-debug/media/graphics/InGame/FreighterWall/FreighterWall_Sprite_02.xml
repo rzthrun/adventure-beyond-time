@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:edd9a1fafa7098cd5d83b366b1c00314:d2fe89960637652640dbca32d9006397:4c12933ba528dfdd6e79561d21be61da$ -->
+<TextureAtlas imagePath="FreighterWall_Sprite_02.atf">
+    <SubTexture name="wallOpen" x="1" y="1" width="544" height="510"/>
+</TextureAtlas>

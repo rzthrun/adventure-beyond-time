@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:49254a50d0fc53025a75c6896baf1c95:284c71d748f36093adde41f06d0e9789:8a95856ac4fff268014f33e1ec18a00b$ -->
+<TextureAtlas imagePath="CavePirateCannon_Sprite_Two.png">
+    <SubTexture name="mist" x="2" y="2" width="400" height="256"/>
+    <SubTexture name="smoke_barrel" x="339" y="260" width="118" height="85" frameX="-8" frameY="0" frameWidth="126" frameHeight="85"/>
+    <SubTexture name="smoke_chamber" x="2" y="260" width="200" height="240"/>
+    <SubTexture name="smoke_string" x="204" y="260" width="133" height="198" frameX="0" frameY="0" frameWidth="133" frameHeight="200"/>
+</TextureAtlas>

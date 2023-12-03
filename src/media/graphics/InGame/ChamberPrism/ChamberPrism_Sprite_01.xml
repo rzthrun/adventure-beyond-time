@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3155d7123763109e1716bae69e4aeb32:21d5295148d070469968ee44f4a7dfc7:dc3f3008d7abd36109063690e4c43115$ -->
+<TextureAtlas imagePath="ChamberPrism_Sprite_01.atf">
+    <SubTexture name="blue_off" x="531" y="171" width="135" height="164"/>
+    <SubTexture name="blue_on" x="531" y="337" width="135" height="164"/>
+    <SubTexture name="d_01_on" x="772" y="171" width="123" height="154"/>
+    <SubTexture name="d_02_on" x="668" y="332" width="124" height="154"/>
+    <SubTexture name="d_03_on" x="668" y="171" width="102" height="159"/>
+    <SubTexture name="d_04_on" x="794" y="327" width="86" height="134"/>
+    <SubTexture name="d_05_off" x="897" y="171" width="87" height="143"/>
+    <SubTexture name="d_05_on" x="897" y="316" width="87" height="143"/>
+    <SubTexture name="green_off" x="2" y="2" width="167" height="194"/>
+    <SubTexture name="green_on" x="2" y="198" width="167" height="194"/>
+    <SubTexture name="mirror_pos_00" x="325" y="2" width="204" height="167"/>
+    <SubTexture name="mirror_pos_01" x="325" y="171" width="204" height="167"/>
+    <SubTexture name="mirror_pos_02" x="325" y="340" width="204" height="167"/>
+    <SubTexture name="mirror_pos_03" x="531" y="2" width="204" height="167"/>
+    <SubTexture name="mirror_pos_04" x="737" y="2" width="204" height="167"/>
+    <SubTexture name="red_off" x="171" y="2" width="152" height="186"/>
+    <SubTexture name="red_on" x="171" y="190" width="152" height="186"/>
+</TextureAtlas>

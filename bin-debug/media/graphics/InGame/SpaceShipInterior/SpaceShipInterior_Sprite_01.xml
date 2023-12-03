@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3301a6cd998682fbc7da7e4cb6d46e09:2456390860e8e9d4bbe0d601e67e949d:4343982a4d6ad3dcbcaf1ad2bb45c6cf$ -->
+<TextureAtlas imagePath="SpaceShipInterior_Sprite_01.atf">
+    <SubTexture name="console_blue" x="2" y="268" width="345" height="352"/>
+    <SubTexture name="oven_blue" x="2" y="2" width="401" height="264"/>
+    <SubTexture name="oven_lid_off" x="349" y="268" width="130" height="100"/>
+    <SubTexture name="oven_lid_on" x="349" y="370" width="130" height="100"/>
+    <SubTexture name="oven_off_bar" x="405" y="2" width="41" height="23"/>
+    <SubTexture name="oven_off_bar_closed" x="448" y="2" width="41" height="23"/>
+    <SubTexture name="oven_on_bar" x="405" y="27" width="41" height="23"/>
+    <SubTexture name="oven_on_bar_closed" x="448" y="27" width="41" height="23"/>
+    <SubTexture name="oven_on_plasma" x="405" y="52" width="23" height="46"/>
+    <SubTexture name="oven_on_plasma_closed" x="430" y="52" width="23" height="46"/>
+</TextureAtlas>

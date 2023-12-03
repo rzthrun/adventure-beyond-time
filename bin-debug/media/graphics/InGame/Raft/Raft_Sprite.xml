@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a296043ee7e09e4f12f2d4357d754929:a5b750097644b267fdfdbcf8b5d72cb2:55db8e80c6c2eacc3cd22685b207389c$ -->
+<TextureAtlas imagePath="Raft_Sprite.atf">
+    <SubTexture name="box_dark" x="588" y="2" width="366" height="261"/>
+    <SubTexture name="box_handle" x="230" y="516" width="127" height="85"/>
+    <SubTexture name="box_lift" x="588" y="265" width="366" height="261"/>
+    <SubTexture name="doorOpen" x="2" y="2" width="584" height="512"/>
+    <SubTexture name="handle_up" x="2" y="528" width="226" height="150"/>
+</TextureAtlas>

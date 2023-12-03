@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b15f11e923c1b53b664d365ada155e2d:9ee936693c76d0371efb2700df332e85:1d57663983e99fba7932b0698781b1b1$ -->
+<TextureAtlas imagePath="SubmarineCaptains_Sprite_02.png">
+    <SubTexture name="chinese_page_01" x="2" y="2" width="696" height="512" frameX="-35" frameY="0" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="chinese_page_02" x="2" y="516" width="696" height="512" frameX="-35" frameY="0" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="chinese_page_03" x="2" y="1030" width="696" height="512" frameX="-35" frameY="0" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

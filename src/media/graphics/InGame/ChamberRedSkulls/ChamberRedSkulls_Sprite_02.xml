@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:efc70d9d65937ae7a2d526f75ddbc4e1:209325fdb555d100d75f3286e230e83b:e7dafbad7c3b467ab73f27540bf3fe67$ -->
+<TextureAtlas imagePath="ChamberRedSkulls_Sprite_02.png">
+    <SubTexture name="pos_01_alien_red" x="2" y="658" width="164" height="152"/>
+    <SubTexture name="pos_01_alien_white" x="2" y="812" width="164" height="152"/>
+    <SubTexture name="pos_01_hominid_red" x="167" y="2" width="164" height="152"/>
+    <SubTexture name="pos_01_hominid_white" x="167" y="156" width="164" height="152"/>
+    <SubTexture name="pos_01_human_red" x="167" y="310" width="164" height="152"/>
+    <SubTexture name="pos_01_human_white" x="167" y="464" width="164" height="152"/>
+    <SubTexture name="pos_02_alien_red" x="331" y="906" width="99" height="112"/>
+    <SubTexture name="pos_02_alien_white" x="432" y="906" width="99" height="112"/>
+    <SubTexture name="pos_02_hominid_red" x="333" y="146" width="99" height="112"/>
+    <SubTexture name="pos_02_hominid_white" x="333" y="260" width="99" height="112"/>
+    <SubTexture name="pos_02_human_red" x="333" y="374" width="99" height="112"/>
+    <SubTexture name="pos_02_human_white" x="333" y="488" width="99" height="112"/>
+    <SubTexture name="pos_03_alien_red" x="331" y="618" width="136" height="142"/>
+    <SubTexture name="pos_03_alien_white" x="331" y="762" width="136" height="142"/>
+    <SubTexture name="pos_03_hominid_red" x="533" y="2" width="136" height="142"/>
+    <SubTexture name="pos_03_hominid_white" x="333" y="2" width="136" height="142"/>
+    <SubTexture name="pos_03_human_red" x="671" y="2" width="136" height="142"/>
+    <SubTexture name="pos_03_human_white" x="809" y="2" width="136" height="142"/>
+    <SubTexture name="slime_red" x="2" y="2" width="163" height="326"/>
+    <SubTexture name="slime_white" x="2" y="330" width="163" height="326"/>
+    <SubTexture name="triangle_red" x="168" y="618" width="161" height="145"/>
+    <SubTexture name="triangle_white" x="168" y="765" width="161" height="145"/>
+</TextureAtlas>

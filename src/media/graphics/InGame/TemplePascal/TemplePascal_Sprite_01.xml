@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0a0dc22df9fa2f7a8db977ea049d8369:ccb4cc396c84acfdbd13be0c7b41a73e:543b17be5d255b6c0ec22258f0b2e508$ -->
+<TextureAtlas imagePath="TemplePascal_Sprite_01.atf">
+    <SubTexture name="clear_combo" x="640" y="983" width="36" height="36"/>
+    <SubTexture name="clear_triangle" x="852" y="919" width="48" height="52"/>
+    <SubTexture name="combo_01" x="555" y="496" width="139" height="139"/>
+    <SubTexture name="combo_02" x="555" y="637" width="139" height="139"/>
+    <SubTexture name="combo_03" x="555" y="778" width="139" height="139"/>
+    <SubTexture name="combo_04" x="696" y="496" width="139" height="139"/>
+    <SubTexture name="combo_05" x="696" y="637" width="139" height="139"/>
+    <SubTexture name="combo_06" x="716" y="778" width="139" height="139"/>
+    <SubTexture name="combo_07" x="832" y="2" width="139" height="139"/>
+    <SubTexture name="combo_10" x="832" y="143" width="139" height="139"/>
+    <SubTexture name="combo_15" x="832" y="284" width="139" height="139"/>
+    <SubTexture name="combo_20" x="837" y="425" width="139" height="139"/>
+    <SubTexture name="combo_21" x="837" y="566" width="139" height="139"/>
+    <SubTexture name="combo_35" x="857" y="707" width="139" height="139"/>
+    <SubTexture name="control_01" x="852" y="973" width="42" height="42"/>
+    <SubTexture name="control_02" x="791" y="919" width="59" height="58"/>
+    <SubTexture name="control_03" x="640" y="919" width="74" height="62"/>
+    <SubTexture name="control_05" x="716" y="919" width="73" height="72"/>
+    <SubTexture name="control_07" x="555" y="919" width="83" height="80"/>
+    <SubTexture name="face_fade_02" x="555" y="2" width="275" height="245"/>
+    <SubTexture name="face_fade_03" x="555" y="249" width="275" height="245"/>
+    <SubTexture name="face_squares" x="2" y="2" width="551" height="491"/>
+    <SubTexture name="face_triangle" x="2" y="495" width="551" height="491"/>
+</TextureAtlas>

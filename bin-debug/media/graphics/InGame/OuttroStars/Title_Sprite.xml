@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3faca0d1df1922636ff54a3424151ffa:c582c554f1a9367decf2f1c358a17c33:bbd8d7407e257680b469f713fff8dd66$ -->
+<TextureAtlas imagePath="Title_Sprite.png">
+    <SubTexture name="Title_two" x="2" y="2" width="791" height="323" frameX="-1" frameY="-5" frameWidth="800" frameHeight="335"/>
+    <SubTexture name="credit" x="2" y="327" width="643" height="457" frameX="-79" frameY="-23" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

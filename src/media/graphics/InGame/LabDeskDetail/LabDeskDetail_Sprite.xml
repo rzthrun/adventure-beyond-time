@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b50df28d4aa042c8b3b5e416b79aeac3:d74ee6b6d5dc6c3492e00d3f16815a06:3d22db8e7a022024ce7e650f8cc2b599$ -->
+<TextureAtlas imagePath="LabDeskDetail_Sprite.atf">
+    <SubTexture name="computer_screen_corner" x="374" y="298" width="100" height="133"/>
+    <SubTexture name="flowers" x="301" y="2" width="152" height="146"/>
+    <SubTexture name="flowers_mushroom" x="301" y="150" width="152" height="146"/>
+    <SubTexture name="mix" x="220" y="298" width="152" height="146"/>
+    <SubTexture name="mortar_empty" x="2" y="291" width="216" height="197"/>
+    <SubTexture name="mushroom" x="220" y="446" width="152" height="146"/>
+    <SubTexture name="solder" x="2" y="2" width="297" height="287"/>
+    <SubTexture name="water" x="2" y="490" width="152" height="146"/>
+    <SubTexture name="water_flower" x="156" y="594" width="152" height="146"/>
+    <SubTexture name="water_flower_mushroom" x="2" y="638" width="152" height="146"/>
+    <SubTexture name="water_mushroom" x="310" y="594" width="152" height="146"/>
+</TextureAtlas>

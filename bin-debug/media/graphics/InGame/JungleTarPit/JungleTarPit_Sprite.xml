@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:647d4068b46b2c8dcbb40ab59ea9d632:9d82607f8be4eb973b897b0f1830a0a4:81913ef3c4ebc3fce6f9c2835c7b713f$ -->
+<TextureAtlas imagePath="JungleTarPit_Sprite.png">
+    <SubTexture name="pit_plank_back" x="86" y="78" width="57" height="74"/>
+    <SubTexture name="pit_plank_front" x="2" y="2" width="176" height="74"/>
+    <SubTexture name="pit_stick" x="180" y="2" width="59" height="127"/>
+    <SubTexture name="ribbon" x="2" y="78" width="82" height="181"/>
+</TextureAtlas>

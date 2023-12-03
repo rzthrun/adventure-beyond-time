@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:8f3d90ccc2a2d0f68faa61c9b1adb32d:7401c82a7b08963e57191c4e71bf501b:9b26089d7acdc4d385d004a4f3cb21e3$ -->
+<TextureAtlas imagePath="jungleEnclave_Sprite.png">
+    <SubTexture name="rock_closed" x="117" y="2" width="94" height="105"/>
+    <SubTexture name="rock_open" x="2" y="90" width="65" height="83"/>
+    <SubTexture name="rock_seal" x="2" y="175" width="54" height="55"/>
+    <SubTexture name="wall_arm" x="2" y="2" width="113" height="86"/>
+    <SubTexture name="wall_dragonball" x="58" y="175" width="63" height="53"/>
+</TextureAtlas>

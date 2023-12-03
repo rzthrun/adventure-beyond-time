@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:1c27a9da0e829d0aa31ed4a32fc92de7:46d851b472bf733d50b31ebf98bb01ab:52b0201aae8e5b58257b6d0c9ac38dd3$ -->
+<TextureAtlas imagePath="RavineCanyon_SpriteSheet.png">
+    <SubTexture name="canoe_bowl" x="2" y="2" width="69" height="56"/>
+</TextureAtlas>

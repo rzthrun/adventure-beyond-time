@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ef2a3371acd46a516b9c35bf07319613:a25b0279d4222a23be902b21022674bb:b643e55aad574fa7f5f5b498bb2d0f4f$ -->
+<TextureAtlas imagePath="JungleVikingTrunk_Sprite.atf">
+    <SubTexture name="handle" x="2" y="2" width="211" height="131"/>
+    <SubTexture name="t_lid" x="215" y="2" width="758" height="373"/>
+</TextureAtlas>

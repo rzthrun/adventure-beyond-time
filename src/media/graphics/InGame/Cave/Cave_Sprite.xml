@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:35b1507c390a26a7f32b3c614a7911d0:8b5074fdf9b5536913067a8b370421c7:43ba3f8e825037998df58cb584bfd5d8$ -->
+<TextureAtlas imagePath="Cave_Sprite.png">
+    <SubTexture name="bones_flint" x="198" y="36" width="37" height="40"/>
+    <SubTexture name="bones_jaw" x="2" y="212" width="82" height="45"/>
+    <SubTexture name="corridor_burningTorch" x="2" y="2" width="194" height="208"/>
+    <SubTexture name="corridor_fire_00" x="198" y="78" width="33" height="38"/>
+    <SubTexture name="corridor_fire_01" x="198" y="118" width="33" height="38"/>
+    <SubTexture name="corridor_fire_02" x="242" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="33" frameHeight="38"/>
+    <SubTexture name="corridor_marcasite" x="198" y="2" width="42" height="32"/>
+</TextureAtlas>

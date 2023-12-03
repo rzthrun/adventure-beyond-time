@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ee1fa51d07deb897592eae85640fb571:d7adfd8d8b516861d109bcb619f78007:d0b9e5ecc6dab709d01a1c627f630cdc$ -->
+<TextureAtlas imagePath="PirateBirdCage_Sprite.atf">
+    <SubTexture name="coin" x="2" y="352" width="115" height="69"/>
+    <SubTexture name="coin_lid" x="2" y="423" width="115" height="69"/>
+    <SubTexture name="lid" x="2" y="2" width="514" height="348"/>
+</TextureAtlas>

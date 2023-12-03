@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b49fe65e91bb74575c3e7812a9e41d78:a5e6743a8b1e7b427b17a3a452858e7e:00d4f6a1ebd2ce06b5ff83a1f3ca72a2$ -->
+<TextureAtlas imagePath="TriremeInterior_Sprite.atf">
+    <SubTexture name="d_device_coin" x="187" y="427" width="44" height="40"/>
+    <SubTexture name="d_device_lid" x="2" y="2" width="257" height="191"/>
+    <SubTexture name="ladder" x="2" y="427" width="183" height="323"/>
+    <SubTexture name="lid_corner" x="233" y="195" width="23" height="96"/>
+    <SubTexture name="rope" x="316" y="466" width="72" height="296"/>
+    <SubTexture name="rope_corner" x="233" y="466" width="81" height="50"/>
+    <SubTexture name="waterfallWindow_pos_01" x="261" y="2" width="229" height="230"/>
+    <SubTexture name="waterfallWindow_pos_02" x="2" y="195" width="229" height="230"/>
+    <SubTexture name="waterfallWindow_pos_03" x="258" y="234" width="229" height="230"/>
+</TextureAtlas>

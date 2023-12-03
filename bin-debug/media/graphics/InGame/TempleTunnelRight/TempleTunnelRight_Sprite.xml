@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:59040654075c70b83a44625240feb3d5:e15be9c13691b46244dd80ea122feb78:3879020640f7bdc080d9afc08dc3081d$ -->
+<TextureAtlas imagePath="TempleTunnelRight_Sprite.png">
+    <SubTexture name="five_black" x="2" y="2" width="241" height="173"/>
+    <SubTexture name="five_red" x="245" y="2" width="241" height="173"/>
+    <SubTexture name="seven_black" x="2" y="177" width="183" height="139"/>
+    <SubTexture name="seven_red" x="2" y="318" width="183" height="139"/>
+</TextureAtlas>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:27d42a5977d14b8a142ad0c060266591:6f81ffca74c64c6d67ec967eebb581a8:9f3a26a067bdb88909b163acafd975e4$ -->
+<TextureAtlas imagePath="FarCoastHelmet_Sprite.atf">
+    <SubTexture name="key_close" x="594" y="2" width="290" height="208"/>
+    <SubTexture name="key_open" x="594" y="212" width="290" height="208"/>
+    <SubTexture name="d_lid" x="2" y="2" width="590" height="510"/>
+</TextureAtlas>

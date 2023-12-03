@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ff5905a851e39ab8b9b1607f934d0f48:789f41ee2ae734385080e5accb7b6ac4:d059eda65af50a1973058399458dab9c$ -->
+<TextureAtlas imagePath="Chamber_Sprite_02.png">
+    <SubTexture name="lightbeam" x="2" y="2" width="99" height="219"/>
+    <SubTexture name="vortex" x="103" y="2" width="135" height="129" frameX="0" frameY="-3" frameWidth="135" frameHeight="135"/>
+</TextureAtlas>

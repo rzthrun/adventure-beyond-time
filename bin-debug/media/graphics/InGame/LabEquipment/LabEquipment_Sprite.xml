@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:68118784128d8ecd5b22bf58fb1553bd:0a52d102e1da4e92e3024e21343c8619:61eed97bb25428d494098f8f54540920$ -->
+<TextureAtlas imagePath="LabEquipment_Sprite.atf">
+    <SubTexture name="anima_00" x="975" y="43" width="1" height="1" frameX="0" frameY="0" frameWidth="360" frameHeight="251"/>
+    <SubTexture name="anima_01" x="2" y="2" width="360" height="251"/>
+    <SubTexture name="anima_02" x="364" y="2" width="360" height="251"/>
+    <SubTexture name="anima_03" x="2" y="255" width="360" height="251"/>
+    <SubTexture name="anima_04" x="364" y="255" width="360" height="251"/>
+    <SubTexture name="anima_05" x="2" y="508" width="360" height="251"/>
+    <SubTexture name="disk" x="893" y="80" width="59" height="29"/>
+    <SubTexture name="hose" x="726" y="2" width="165" height="166"/>
+    <SubTexture name="printer_crystal" x="954" y="87" width="24" height="54"/>
+    <SubTexture name="printer_goo" x="893" y="2" width="84" height="39"/>
+    <SubTexture name="printer_stone" x="979" y="2" width="42" height="83"/>
+    <SubTexture name="screen" x="726" y="170" width="136" height="121"/>
+    <SubTexture name="slide" x="893" y="43" width="80" height="35"/>
+</TextureAtlas>

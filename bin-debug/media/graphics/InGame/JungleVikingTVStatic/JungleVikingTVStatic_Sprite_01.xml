@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:98845865d0094e6ffce443652e7f547c:e1536f61dfe727b5698087f58761435b:52f3fbbf745fb06e420b0ac7528a140c$ -->
+<TextureAtlas imagePath="JungleVikingTVStatic_Sprite_01.jpg">
+    <SubTexture name="static_01" x="2" y="2" width="400" height="256"/>
+    <SubTexture name="static_02" x="404" y="2" width="400" height="256"/>
+    <SubTexture name="static_03" x="2" y="260" width="400" height="256"/>
+    <SubTexture name="static_04" x="404" y="260" width="400" height="256"/>
+    <SubTexture name="static_05" x="2" y="518" width="400" height="256"/>
+</TextureAtlas>

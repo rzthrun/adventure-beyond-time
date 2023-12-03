@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:cdca4ce179f15d432baf19be94811561:1369b9527463077627e03a827e4cd4c2:efdbfa82077fb44ae99741727725cefa$ -->
+<TextureAtlas imagePath="triremeDeck_Sprite_02.png">
+    <SubTexture name="page_00" x="2" y="2" width="633" height="451" frameX="-81" frameY="-11" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="page_01" x="2" y="455" width="633" height="451" frameX="-81" frameY="-11" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

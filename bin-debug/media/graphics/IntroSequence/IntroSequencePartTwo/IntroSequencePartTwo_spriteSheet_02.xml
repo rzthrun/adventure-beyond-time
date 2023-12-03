@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:80c1cf14df891103491cb0ec4f12cdfc:b73d7b11c356ce6ac601b0b168070530:bc37b51a51a24dd81ecdffea53d7fe05$ -->
+<TextureAtlas imagePath="IntroSequencePartTwo_spriteSheet_02.png">
+    <SubTexture name="lightning_one" x="2" y="2" width="188" height="151"/>
+    <SubTexture name="lightning_three" x="2" y="155" width="185" height="199"/>
+</TextureAtlas>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b14996c2d60e46d7d1d1ee30608c38b9:d5b47aa42ada7908c0d5caf17e3b39d9:99ac61e423914041e3e336e5c3ae4cf1$ -->
+<TextureAtlas imagePath="RavineRoof_Sprite.atf">
+    <SubTexture name="sat_dish" x="652" y="2" width="83" height="118"/>
+    <SubTexture name="solar_panels" x="2" y="2" width="648" height="269"/>
+    <SubTexture name="tar" x="2" y="273" width="648" height="269"/>
+</TextureAtlas>

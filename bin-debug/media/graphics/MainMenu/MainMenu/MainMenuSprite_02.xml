@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:d1a4b6cf54b214d570d473e91add5611:88f059cad3d90adbf8bc20979714c795:236abf47d6d3b38768f6d15c2adb52f1$ -->
+<TextureAtlas imagePath="MainMenuSprite_02.png">
+    <SubTexture name="Title_three" x="2" y="2" width="800" height="273" frameX="0" frameY="-12" frameWidth="800" frameHeight="335"/>
+</TextureAtlas>

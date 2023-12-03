@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:648ea315f69f555b4327bb21b4668f84:e14ab2806806e0bebbf5a3b615891fbf:6635431cd1a4e36e2a55152e5126801e$ -->
+<TextureAtlas imagePath="LabDeskDetail_Sprite_02.atf">
+    <SubTexture name="mandelbrot_page_00" x="2" y="2" width="320" height="442" frameX="-240" frameY="-5" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="mandelbrot_page_01" x="324" y="2" width="638" height="440" frameX="-78" frameY="-9" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

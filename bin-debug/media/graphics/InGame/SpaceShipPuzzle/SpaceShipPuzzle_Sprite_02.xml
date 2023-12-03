@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a70833f5fa5fa126bb25299908771017:058d18f35901943f39f0a9ea5916b22b:4fc2f088f0757c0bec99da626bc1efce$ -->
+<TextureAtlas imagePath="SpaceShipPuzzle_Sprite_02.png">
+    <SubTexture name="red_Mark" x="2" y="2" width="97" height="97"/>
+    <SubTexture name="yellow_Mark" x="2" y="101" width="97" height="97"/>
+</TextureAtlas>

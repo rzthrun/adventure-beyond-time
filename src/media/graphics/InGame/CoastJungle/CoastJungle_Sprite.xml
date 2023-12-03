@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:8c89f9ed4cb767bc7a680b9e21a6752c:4171dc601267ab5d494cad3aa6a3b70f:56f3b0abe742503ada8d8cb9f0d07f2e$ -->
+<TextureAtlas imagePath="CoastJungle_Sprite.png">
+    <SubTexture name="buoy_redStone" x="133" y="2" width="34" height="20"/>
+    <SubTexture name="buoy_solarPanels" x="2" y="2" width="129" height="128"/>
+    <SubTexture name="buoy_wires" x="2" y="132" width="129" height="128"/>
+</TextureAtlas>

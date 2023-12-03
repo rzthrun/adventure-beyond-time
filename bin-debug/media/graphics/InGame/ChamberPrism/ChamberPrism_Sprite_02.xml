@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:4ddab71c435a905ebf1d054588ffd8e8:4e8f8756faf30329164ffeb828aac925:dc4e4ddd7311ecebeb072463c285f666$ -->
+<TextureAtlas imagePath="ChamberPrism_Sprite_02.png">
+    <SubTexture name="beam_01_p01" x="751" y="694" width="186" height="218" frameX="0" frameY="0" frameWidth="186" frameHeight="219"/>
+    <SubTexture name="beam_01_p02" x="328" y="672" width="220" height="307"/>
+    <SubTexture name="beam_02_p01" x="584" y="340" width="331" height="352"/>
+    <SubTexture name="beam_02_p02" x="2" y="929" width="218" height="204"/>
+    <SubTexture name="beam_02_p03" x="550" y="694" width="199" height="122"/>
+    <SubTexture name="beam_03_p01" x="584" y="2" width="407" height="336"/>
+    <SubTexture name="beam_03_p02" x="550" y="818" width="182" height="157"/>
+    <SubTexture name="beam_03_p03" x="917" y="340" width="88" height="100"/>
+    <SubTexture name="beam_04_p01" x="2" y="675" width="301" height="93" frameX="-1" frameY="0" frameWidth="302" frameHeight="94"/>
+    <SubTexture name="beam_04_p02" x="2" y="770" width="271" height="157"/>
+    <SubTexture name="beam_05_p01" x="328" y="384" width="254" height="286" frameX="0" frameY="0" frameWidth="254" frameHeight="287"/>
+    <SubTexture name="beam_05_p02" x="2" y="384" width="324" height="289"/>
+    <SubTexture name="beam_06_p01" x="2" y="2" width="580" height="380" frameX="0" frameY="-1" frameWidth="581" frameHeight="382"/>
+    <SubTexture name="beam_06_p02" x="734" y="914" width="172" height="213" frameX="0" frameY="0" frameWidth="173" frameHeight="213"/>
+</TextureAtlas>

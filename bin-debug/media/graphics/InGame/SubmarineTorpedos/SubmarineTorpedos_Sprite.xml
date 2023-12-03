@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ee242034caec74484ff44a486be8e7c9:1520ceef5dfb1bc95470d52799821f98:b01ca3d6c931463cfd3b3d2ead30c838$ -->
+<TextureAtlas imagePath="SubmarineTorpedos_Sprite.png">
+    <SubTexture name="blowtorch" x="345" y="371" width="160" height="126"/>
+    <SubTexture name="closed_left" x="356" y="275" width="63" height="48"/>
+    <SubTexture name="closed_right" x="422" y="228" width="64" height="44"/>
+    <SubTexture name="door_left" x="2" y="371" width="341" height="373"/>
+    <SubTexture name="door_right" x="2" y="2" width="352" height="367"/>
+    <SubTexture name="open_left" x="356" y="228" width="64" height="45"/>
+    <SubTexture name="open_right" x="422" y="274" width="64" height="43"/>
+    <SubTexture name="wrench_lit" x="356" y="2" width="109" height="111"/>
+    <SubTexture name="wrench_red" x="356" y="115" width="109" height="111"/>
+</TextureAtlas>

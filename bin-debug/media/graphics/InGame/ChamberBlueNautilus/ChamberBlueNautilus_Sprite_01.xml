@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:977c3c285cce2932d364b818d77c5e54:dfa78b8fba3d4dc708a2cfabab07da5a:95aa48798d44d47f20f189fd8242e5e0$ -->
+<TextureAtlas imagePath="ChamberBlueNautilus_Sprite_01.png">
+    <SubTexture name="pos0c0" x="2" y="2" width="109" height="115"/>
+    <SubTexture name="pos0c1" x="113" y="2" width="109" height="115"/>
+    <SubTexture name="pos0c2" x="224" y="2" width="109" height="115"/>
+    <SubTexture name="pos0c3" x="335" y="2" width="109" height="115"/>
+    <SubTexture name="pos0c4" x="446" y="2" width="109" height="115"/>
+    <SubTexture name="pos0c5" x="557" y="2" width="109" height="115"/>
+    <SubTexture name="pos0c6" x="668" y="2" width="109" height="115"/>
+    <SubTexture name="pos1c0" x="779" y="2" width="161" height="150"/>
+    <SubTexture name="pos1c1" x="942" y="2" width="161" height="150"/>
+    <SubTexture name="pos1c2" x="1105" y="2" width="161" height="150"/>
+    <SubTexture name="pos1c3" x="1268" y="2" width="161" height="150"/>
+    <SubTexture name="pos1c4" x="1431" y="2" width="161" height="150"/>
+    <SubTexture name="pos1c5" x="1594" y="2" width="161" height="150"/>
+    <SubTexture name="pos1c6" x="1757" y="2" width="161" height="150"/>
+    <SubTexture name="pos2c0" x="2" y="154" width="194" height="185"/>
+    <SubTexture name="pos2c1" x="198" y="154" width="194" height="185"/>
+    <SubTexture name="pos2c2" x="394" y="154" width="194" height="185"/>
+    <SubTexture name="pos2c3" x="590" y="154" width="194" height="185"/>
+    <SubTexture name="pos2c4" x="786" y="154" width="194" height="185"/>
+    <SubTexture name="pos2c5" x="982" y="154" width="194" height="185"/>
+    <SubTexture name="pos2c6" x="1178" y="154" width="194" height="185"/>
+    <SubTexture name="pos3c0" x="1374" y="154" width="262" height="251"/>
+    <SubTexture name="pos3c1" x="1638" y="154" width="262" height="251"/>
+    <SubTexture name="pos3c2" x="2" y="407" width="262" height="251"/>
+    <SubTexture name="pos3c3" x="266" y="407" width="262" height="251"/>
+    <SubTexture name="pos3c4" x="530" y="407" width="262" height="251"/>
+    <SubTexture name="pos3c5" x="794" y="407" width="262" height="251"/>
+    <SubTexture name="pos3c6" x="1058" y="407" width="262" height="251"/>
+    <SubTexture name="pos4c0" x="1322" y="407" width="289" height="310"/>
+    <SubTexture name="pos4c1" x="1613" y="407" width="289" height="310"/>
+    <SubTexture name="pos4c2" x="2" y="719" width="289" height="310"/>
+    <SubTexture name="pos4c3" x="293" y="719" width="289" height="310"/>
+    <SubTexture name="pos4c4" x="584" y="719" width="289" height="310"/>
+    <SubTexture name="pos4c5" x="875" y="719" width="289" height="310"/>
+    <SubTexture name="pos4c6" x="1166" y="719" width="289" height="310"/>
+    <SubTexture name="pos5c0" x="1457" y="719" width="353" height="203"/>
+    <SubTexture name="pos5c1" x="2" y="1031" width="353" height="203"/>
+    <SubTexture name="pos5c2" x="357" y="1031" width="353" height="203"/>
+    <SubTexture name="pos5c3" x="712" y="1031" width="353" height="203"/>
+    <SubTexture name="pos5c4" x="1067" y="1031" width="353" height="203"/>
+    <SubTexture name="pos5c5" x="1422" y="1031" width="353" height="203"/>
+    <SubTexture name="pos5c6" x="2" y="1236" width="353" height="203"/>
+</TextureAtlas>

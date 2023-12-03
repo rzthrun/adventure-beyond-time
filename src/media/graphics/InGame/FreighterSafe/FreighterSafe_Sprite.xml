@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:30644ccb4bba02a5976f3496e977d174:3fffabbf99713ef27e495804985f7bf8:50367d2566ba5755e2becd2204f55808$ -->
+<TextureAtlas imagePath="FreighterSafe_Sprite.atf">
+    <SubTexture name="door" x="2" y="2" width="590" height="442"/>
+    <SubTexture name="pirateTube" x="594" y="2" width="194" height="200"/>
+</TextureAtlas>

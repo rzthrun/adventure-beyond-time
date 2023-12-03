@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:725a93882ae24ea9cff5a3b5c7794b7a:20841db75dce33fbfbf9c931f28ed984:b6307f4f1c4fd074635ee56319e9bccf$ -->
+<TextureAtlas imagePath="RavinePlane_Sprite.atf">
+    <SubTexture name="hose" x="300" y="252" width="166" height="92"/>
+    <SubTexture name="left_off" x="2" y="2" width="341" height="248"/>
+    <SubTexture name="left_on" x="2" y="398" width="230" height="308"/>
+    <SubTexture name="right_off" x="2" y="252" width="296" height="144"/>
+    <SubTexture name="right_on" x="345" y="2" width="155" height="172"/>
+</TextureAtlas>

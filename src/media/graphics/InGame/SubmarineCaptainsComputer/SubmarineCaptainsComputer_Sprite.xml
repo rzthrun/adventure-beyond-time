@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:997e2b3c64e2c5666b1eebb8c227718a:95604e80c05c0ad1911885c194589f53:864a8f4d7e25ffe5e8b6c4fc0b2daeb6$ -->
+<TextureAtlas imagePath="SubmarineCaptainsComputer_Sprite.png">
+    <SubTexture name="page_01" x="2" y="2" width="736" height="368" frameX="-15" frameY="-87" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="page_02" x="740" y="366" width="736" height="360" frameX="-15" frameY="-97" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="page_03" x="2" y="372" width="736" height="360" frameX="-15" frameY="-97" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="page_04" x="740" y="728" width="736" height="360" frameX="-15" frameY="-97" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="page_05" x="2" y="734" width="736" height="360" frameX="-15" frameY="-97" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="page_06" x="740" y="2" width="736" height="362" frameX="-15" frameY="-97" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

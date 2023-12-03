@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:536068971fc26e008e11aca5f9df2f53:33e66786b5151060c11333cbbe9c02ea:da93b4d5c2b15fbcb635927860312fe1$ -->
+<TextureAtlas imagePath="JunkTopDeck_Sprite.atf">
+    <SubTexture name="tiger_coin" x="282" y="84" width="54" height="140"/>
+    <SubTexture name="lever" x="282" y="2" width="119" height="80"/>
+    <SubTexture name="scroll_open" x="2" y="2" width="278" height="232"/>
+</TextureAtlas>

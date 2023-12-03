@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:798d6fcb6419f7c46caf92cb3242886f:33015f29e3466b3ce1f3264541a1b3b7:8ba666e51a9c8c23a1670d62cc079067$ -->
+<TextureAtlas imagePath="SpaceShipPuzzle_Sprite.png">
+    <SubTexture name="00_dial" x="582" y="635" width="259" height="257" frameX="-26" frameY="-25" frameWidth="290" frameHeight="290"/>
+    <SubTexture name="00_tex" x="441" y="1118" width="203" height="203" frameX="0" frameY="0" frameWidth="205" frameHeight="205"/>
+    <SubTexture name="01_dial" x="589" y="2" width="330" height="312" frameX="-13" frameY="-34" frameWidth="346" frameHeight="346"/>
+    <SubTexture name="01_tex" x="2" y="974" width="232" height="233" frameX="-8" frameY="-5" frameWidth="240" frameHeight="240"/>
+    <SubTexture name="02_dial" x="288" y="790" width="235" height="234" frameX="0" frameY="-14" frameWidth="248" frameHeight="248"/>
+    <SubTexture name="02_tex" x="646" y="1320" width="187" height="197" frameX="-10" frameY="0" frameWidth="197" frameHeight="197"/>
+    <SubTexture name="03_dial" x="2" y="404" width="306" height="310" frameX="-19" frameY="0" frameWidth="325" frameHeight="325"/>
+    <SubTexture name="04_dial" x="2" y="716" width="284" height="256" frameX="-1" frameY="-21" frameWidth="290" frameHeight="290"/>
+    <SubTexture name="04_tex" x="748" y="1114" width="204" height="204" frameX="-3" frameY="0" frameWidth="210" frameHeight="210"/>
+    <SubTexture name="05_dial" x="589" y="316" width="312" height="317" frameX="0" frameY="0" frameWidth="335" frameHeight="335"/>
+    <SubTexture name="05_tex" x="525" y="894" width="221" height="222" frameX="0" frameY="0" frameWidth="222" frameHeight="222"/>
+    <SubTexture name="deep_00" x="207" y="1250" width="197" height="188" frameX="0" frameY="0" frameWidth="198" frameHeight="198"/>
+    <SubTexture name="deep_01" x="748" y="894" width="214" height="218" frameX="-3" frameY="-1" frameWidth="220" frameHeight="220"/>
+    <SubTexture name="deep_02" x="2" y="1433" width="196" height="198" frameX="-2" frameY="-1" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="info_01" x="236" y="1026" width="203" height="222"/>
+    <SubTexture name="info_02" x="2" y="1209" width="203" height="222"/>
+    <SubTexture name="oven" x="310" y="404" width="270" height="384"/>
+    <SubTexture name="ship" x="2" y="2" width="585" height="400"/>
+    <SubTexture name="switch_closed" x="903" y="366" width="58" height="362" frameX="-6" frameY="-2" frameWidth="96" frameHeight="365"/>
+    <SubTexture name="switch_open" x="921" y="2" width="88" height="362" frameX="-6" frameY="-2" frameWidth="96" frameHeight="365"/>
+    <SubTexture name="white_highlight" x="843" y="730" width="141" height="97"/>
+</TextureAtlas>

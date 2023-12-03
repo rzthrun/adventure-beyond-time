@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:588409230594a5018cd26844f8e19988:f3405a3d47a1d1ba5243e32451ef8839:d325d5e41308845fd66a9f2ca2bb56cc$ -->
+<TextureAtlas imagePath="submarineHatchPuzzle_Sprite.png">
+    <SubTexture name="access_number" x="804" y="338" width="93" height="84"/>
+    <SubTexture name="access_star" x="899" y="339" width="93" height="84"/>
+    <SubTexture name="access_x" x="804" y="424" width="93" height="84"/>
+    <SubTexture name="button_enter" x="804" y="262" width="140" height="74"/>
+    <SubTexture name="button_reset" x="946" y="262" width="74" height="75"/>
+    <SubTexture name="card" x="493" y="653" width="239" height="91"/>
+    <SubTexture name="hatch_forward_" x="2" y="2" width="800" height="512"/>
+    <SubTexture name="panel" x="493" y="516" width="394" height="135"/>
+    <SubTexture name="submarineHatchPuzzle_Sprite" x="2" y="516" width="489" height="488" frameX="-2" frameY="-2" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="submarineHatchPuzzle_black_bg" x="804" y="2" width="200" height="128"/>
+    <SubTexture name="submarineHatchPuzzle_yello_bg" x="804" y="132" width="200" height="128"/>
+</TextureAtlas>

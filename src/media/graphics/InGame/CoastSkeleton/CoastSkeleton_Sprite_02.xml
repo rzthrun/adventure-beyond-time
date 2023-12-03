@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:1518e33f3ab2868de468635375a4627c:624c5c7a46ef7566c39dc5eaf1b05776:aa7287328c0aa7e39491a66abaf0d177$ -->
+<TextureAtlas imagePath="CoastSkeleton_Sprite_02.png">
+    <SubTexture name="page_00" x="2" y="2" width="620" height="452" frameX="-92" frameY="-18" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="page_01" x="2" y="456" width="619" height="452" frameX="-93" frameY="-18" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

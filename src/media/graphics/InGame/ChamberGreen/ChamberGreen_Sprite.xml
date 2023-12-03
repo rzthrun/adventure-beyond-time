@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:9cd9d8e250a76fe3db7fbddbbf7f584e:b052e656719ebf760f3b0f6c006c014d:c2e7361fe99e88861e9c5eae69bec2e4$ -->
+<TextureAtlas imagePath="ChamberGreen_Sprite.atf">
+    <SubTexture name="blue_green" x="2" y="2" width="223" height="226"/>
+    <SubTexture name="blue_white" x="2" y="230" width="223" height="226"/>
+    <SubTexture name="crystal" x="439" y="2" width="27" height="59"/>
+    <SubTexture name="tree_sparks" x="227" y="2" width="210" height="105"/>
+    <SubTexture name="tree_tube_green" x="2" y="458" width="77" height="25"/>
+    <SubTexture name="tree_tube_white" x="2" y="485" width="77" height="25"/>
+</TextureAtlas>

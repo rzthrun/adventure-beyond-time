@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c1e4ca480b262b6216b4c354a2a6f40b:331ba5389464295910d9177d4ad92d82:bb7aec91131bc2e436ab7f8c00c8ed81$ -->
+<TextureAtlas imagePath="JungleHouse_Sprite.png">
+    <SubTexture name="door" x="187" y="2" width="52" height="82"/>
+    <SubTexture name="ladder" x="2" y="2" width="183" height="330"/>
+    <SubTexture name="mountain_digsite_dragonball" x="233" y="115" width="20" height="19"/>
+    <SubTexture name="mountain_digsite_hominid" x="233" y="86" width="21" height="27"/>
+    <SubTexture name="roof_sat" x="187" y="86" width="44" height="42"/>
+</TextureAtlas>

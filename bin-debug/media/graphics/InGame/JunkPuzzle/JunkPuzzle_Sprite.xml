@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b532cd23bc7811a18b3275f83612ea5e:601593e610b7d40933a3d00a36ca99bc:e47b1508a82dd27e923ca801e0b5aee9$ -->
+<TextureAtlas imagePath="JunkPuzzle_Sprite.atf">
+    <SubTexture name="center_clear" x="680" y="334" width="118" height="118"/>
+    <SubTexture name="center_green" x="800" y="428" width="116" height="116" frameX="-1" frameY="-1" frameWidth="118" frameHeight="118"/>
+    <SubTexture name="center_purple" x="670" y="454" width="116" height="116" frameX="-1" frameY="-1" frameWidth="118" frameHeight="118"/>
+    <SubTexture name="center_red" x="788" y="546" width="116" height="116" frameX="-1" frameY="-1" frameWidth="118" frameHeight="118"/>
+    <SubTexture name="center_white" x="906" y="546" width="116" height="116" frameX="-1" frameY="-1" frameWidth="118" frameHeight="118"/>
+    <SubTexture name="dial" x="2" y="2" width="510" height="510"/>
+    <SubTexture name="dragon_clear" x="514" y="2" width="128" height="128"/>
+    <SubTexture name="phoenix_clear" x="514" y="132" width="128" height="128"/>
+    <SubTexture name="pos_00_green" x="2" y="514" width="164" height="164"/>
+    <SubTexture name="pos_00_purple" x="2" y="680" width="164" height="164"/>
+    <SubTexture name="pos_00_red" x="2" y="846" width="164" height="164"/>
+    <SubTexture name="pos_00_white" x="168" y="514" width="164" height="164"/>
+    <SubTexture name="pos_01_green" x="168" y="680" width="164" height="164"/>
+    <SubTexture name="pos_01_purple" x="168" y="846" width="164" height="164"/>
+    <SubTexture name="pos_01_red" x="334" y="514" width="164" height="164"/>
+    <SubTexture name="pos_01_white" x="334" y="680" width="164" height="164"/>
+    <SubTexture name="pos_02_green" x="334" y="846" width="164" height="164"/>
+    <SubTexture name="pos_02_purple" x="500" y="514" width="164" height="164"/>
+    <SubTexture name="pos_02_red" x="500" y="680" width="164" height="164"/>
+    <SubTexture name="pos_02_white" x="500" y="846" width="164" height="164"/>
+    <SubTexture name="pos_03_green" x="666" y="2" width="164" height="164"/>
+    <SubTexture name="pos_03_purple" x="832" y="2" width="164" height="164"/>
+    <SubTexture name="pos_03_red" x="514" y="262" width="164" height="164"/>
+    <SubTexture name="pos_03_white" x="710" y="168" width="164" height="164"/>
+    <SubTexture name="roater" x="666" y="572" width="105" height="94"/>
+    <SubTexture name="roater_bottom_green" x="514" y="428" width="43" height="31"/>
+    <SubTexture name="roater_bottom_purple" x="514" y="461" width="43" height="31"/>
+    <SubTexture name="roater_bottom_red" x="559" y="428" width="43" height="31"/>
+    <SubTexture name="roater_bottom_white" x="559" y="461" width="43" height="31"/>
+    <SubTexture name="roater_center_green" x="998" y="2" width="23" height="23"/>
+    <SubTexture name="roater_center_purple" x="998" y="27" width="23" height="23"/>
+    <SubTexture name="roater_center_red" x="998" y="52" width="23" height="23"/>
+    <SubTexture name="roater_center_white" x="998" y="77" width="23" height="23"/>
+    <SubTexture name="roater_left_green" x="604" y="428" width="31" height="31"/>
+    <SubTexture name="roater_left_purple" x="604" y="461" width="31" height="31"/>
+    <SubTexture name="roater_left_red" x="637" y="428" width="31" height="31"/>
+    <SubTexture name="roater_left_white" x="637" y="461" width="31" height="31"/>
+    <SubTexture name="roater_right_green" x="644" y="168" width="31" height="31"/>
+    <SubTexture name="roater_right_purple" x="644" y="201" width="31" height="31"/>
+    <SubTexture name="roater_right_red" x="677" y="168" width="31" height="31"/>
+    <SubTexture name="roater_right_white" x="677" y="201" width="31" height="31"/>
+    <SubTexture name="roater_top_green" x="800" y="334" width="31" height="31"/>
+    <SubTexture name="roater_top_purple" x="833" y="334" width="31" height="31"/>
+    <SubTexture name="roater_top_red" x="800" y="367" width="31" height="31"/>
+    <SubTexture name="roater_top_white" x="833" y="367" width="31" height="31"/>
+    <SubTexture name="tiger_clear" x="876" y="168" width="128" height="128"/>
+    <SubTexture name="turtle_clear" x="876" y="298" width="128" height="128"/>
+</TextureAtlas>

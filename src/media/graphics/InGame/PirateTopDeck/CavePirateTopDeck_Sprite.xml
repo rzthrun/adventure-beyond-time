@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b4c38f5e8f2f5b2986d2854869437193:365d26299bbae06480901826fba7d715:5a212bc8e5a54050627e46882c1341d2$ -->
+<TextureAtlas imagePath="CavePirateTopDeck_Sprite.atf">
+    <SubTexture name="wheel_pos_01" x="2" y="2" width="389" height="264"/>
+    <SubTexture name="wheel_pos_02" x="393" y="2" width="389" height="264"/>
+    <SubTexture name="wheel_pos_03" x="2" y="268" width="389" height="264"/>
+    <SubTexture name="wheel_pos_04" x="393" y="268" width="389" height="264"/>
+    <SubTexture name="wheel_pos_05" x="2" y="534" width="389" height="264"/>
+    <SubTexture name="wheel_pos_06" x="393" y="534" width="389" height="264"/>
+    <SubTexture name="wheel_pos_07" x="2" y="800" width="389" height="264"/>
+    <SubTexture name="wheel_pos_08" x="393" y="800" width="389" height="264"/>
+    <SubTexture name="wheel_pos_09" x="2" y="1066" width="389" height="264"/>
+    <SubTexture name="wheel_pos_10" x="393" y="1066" width="389" height="264"/>
+    <SubTexture name="wheel_pos_11" x="2" y="1332" width="389" height="264"/>
+</TextureAtlas>

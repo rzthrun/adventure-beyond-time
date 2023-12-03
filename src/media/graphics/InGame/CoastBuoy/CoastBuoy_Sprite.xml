@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a7be372f2084ae1d9d7426fad57259b8:4a61b54285bc596fd64eddd836c8be1f:e8ea76cc1e73cb7a881c894621ecdb7b$ -->
+<TextureAtlas imagePath="CoastBuoy_Sprite.atf">
+    <SubTexture name="redStone" x="270" y="2" width="82" height="50"/>
+    <SubTexture name="solarPanels" x="2" y="2" width="266" height="253"/>
+    <SubTexture name="wires" x="2" y="257" width="266" height="253"/>
+</TextureAtlas>

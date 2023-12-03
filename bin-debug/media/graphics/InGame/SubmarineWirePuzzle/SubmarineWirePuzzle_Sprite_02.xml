@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:45c66bd00f839701c03650b7112d6252:1eba4c8b8e04bdb00d4840b6a55ede0d:9594843095f1d84b42962007220a77bf$ -->
+<TextureAtlas imagePath="SubmarineWirePuzzle_Sprite_02.png">
+    <SubTexture name="smoke" x="111" y="221" width="89" height="142" frameX="0" frameY="0" frameWidth="90" frameHeight="143"/>
+    <SubTexture name="sparks_01" x="111" y="120" width="94" height="99" frameX="-17" frameY="-10" frameWidth="125" frameHeight="135"/>
+    <SubTexture name="sparks_02" x="2" y="117" width="107" height="106" frameX="-10" frameY="-4" frameWidth="125" frameHeight="135"/>
+    <SubTexture name="sparks_03" x="115" y="2" width="110" height="116" frameX="-5" frameY="-15" frameWidth="125" frameHeight="135"/>
+    <SubTexture name="sparks_04" x="2" y="2" width="111" height="113" frameX="-5" frameY="-20" frameWidth="125" frameHeight="135"/>
+</TextureAtlas>

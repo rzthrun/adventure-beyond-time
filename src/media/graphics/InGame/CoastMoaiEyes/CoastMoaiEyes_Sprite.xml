@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a2f05334aa9909f50f2f1e93a9922894:984114547674d8e40a7f54fe00dc52eb:687060f750cc390ddc6eec1672d29d16$ -->
+<TextureAtlas imagePath="CoastMoaiEyes_Sprite.png">
+    <SubTexture name="left_eye" x="2" y="2" width="89" height="80"/>
+    <SubTexture name="right_eye" x="2" y="84" width="62" height="56"/>
+</TextureAtlas>

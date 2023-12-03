@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a072ce069d951fa583dbb513b68b5294:c0096f3d33167641f0d855ade3679b48:0d3a8064f369242ee9543cc9bc43ee1d$ -->
+<TextureAtlas imagePath="SpaceShipDoorPuzzle_Sprite_02.atf">
+    <SubTexture name="hand" x="802" y="0" width="163" height="373"/>
+    <SubTexture name="spaceShipDoorPuzzle_bg" x="0" y="0" width="800" height="512"/>
+</TextureAtlas>

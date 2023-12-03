@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ad9e160ed8e5157f175756b670d6b34a:6c805bfd297105ba8592c71509372c7b:9334ea8f32c25185e7aceb16369481a2$ -->
+<TextureAtlas imagePath="SubmarineLowerLevel_Sprite.atf">
+    <SubTexture name="handle_red" x="216" y="65" width="38" height="28"/>
+    <SubTexture name="powerMain_pos_01_red" x="247" y="2" width="7" height="10"/>
+    <SubTexture name="powerMain_pos_02_green" x="244" y="27" width="8" height="9"/>
+    <SubTexture name="powerMain_pos_02_red" x="233" y="27" width="9" height="10"/>
+    <SubTexture name="powerMain_pos_03_red" x="234" y="15" width="10" height="10"/>
+    <SubTexture name="powerMain_pos_04_green" x="246" y="15" width="8" height="10"/>
+    <SubTexture name="powerMain_pos_04_red" x="244" y="38" width="8" height="9"/>
+    <SubTexture name="powerMain_pos_05_green" x="234" y="2" width="11" height="11"/>
+    <SubTexture name="powerMain_pos_05_red" x="221" y="28" width="9" height="10"/>
+    <SubTexture name="powerMain_pos_06_green" x="221" y="16" width="10" height="10"/>
+    <SubTexture name="powerMain_pos_06_red" x="221" y="2" width="11" height="12"/>
+    <SubTexture name="torpedo_bay_one_door" x="2" y="2" width="171" height="188"/>
+    <SubTexture name="torpedo_bay_two_door" x="2" y="192" width="163" height="172"/>
+    <SubTexture name="torpedo_closed_left" x="175" y="35" width="42" height="28"/>
+    <SubTexture name="torpedo_closed_right" x="175" y="94" width="37" height="29"/>
+    <SubTexture name="torpedo_open_left" x="175" y="2" width="44" height="31"/>
+    <SubTexture name="torpedo_open_right" x="175" y="65" width="39" height="27"/>
+</TextureAtlas>

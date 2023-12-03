@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:eec36d64b9e6117fe16afd3b38a47cc1:94eca4d3b91a44b0eb7408e2e37be5a6:1a004f0f41312c14ad60c2a8db7f78e0$ -->
+<TextureAtlas imagePath="MainMenuSprite_03.png">
+    <SubTexture name="Reset_bg" x="2" y="2" width="800" height="376" frameX="0" frameY="-1" frameWidth="800" frameHeight="378"/>
+    <SubTexture name="TelescopeHillIcon" x="2" y="380" width="247" height="247"/>
+</TextureAtlas>

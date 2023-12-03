@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:87bb430881b048132839e34b1eb7bf74:5a07e2e63ccf2e30c5076bbbbe915d4c:a11bb37a5f5e1571bc3a9bbb0479ffc7$ -->
+<TextureAtlas imagePath="SubmarineSonar_Sprite.png">
+    <SubTexture name="constels" x="2" y="2" width="384" height="450" frameX="-66" frameY="0" frameWidth="510" frameHeight="510"/>
+    <SubTexture name="symbols" x="2" y="454" width="364" height="414" frameX="-84" frameY="-96" frameWidth="510" frameHeight="510"/>
+</TextureAtlas>

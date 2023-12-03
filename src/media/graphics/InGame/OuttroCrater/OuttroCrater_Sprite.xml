@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:90578669e37215f385adc94d0dd40814:5014c3ef8222d3390aaf90fe71db41dc:0dddb7fc6e94d19aebc3b39b5fb35c85$ -->
+<TextureAtlas imagePath="OuttroCrater_Sprite.png">
+    <SubTexture name="dia_part_00" x="2" y="2" width="519" height="140" frameX="0" frameY="0" frameWidth="519" frameHeight="141"/>
+    <SubTexture name="dia_part_01" x="523" y="2" width="427" height="119"/>
+    <SubTexture name="dia_part_02" x="2" y="144" width="489" height="129"/>
+    <SubTexture name="dia_part_03" x="493" y="144" width="465" height="175" frameX="0" frameY="0" frameWidth="466" frameHeight="175"/>
+    <SubTexture name="dia_part_04" x="2" y="321" width="439" height="175"/>
+    <SubTexture name="dia_part_04_0" x="443" y="321" width="309" height="129"/>
+    <SubTexture name="dia_part_04_1" x="2" y="498" width="339" height="119"/>
+    <SubTexture name="dia_part_05_0" x="343" y="498" width="450" height="64"/>
+    <SubTexture name="dia_part_05_1" x="795" y="498" width="186" height="72" frameX="0" frameY="0" frameWidth="186" frameHeight="73"/>
+    <SubTexture name="dia_part_05_2" x="2" y="619" width="390" height="74"/>
+    <SubTexture name="dia_part_05_3" x="394" y="619" width="121" height="85"/>
+    <SubTexture name="dia_part_05_4" x="517" y="619" width="113" height="63"/>
+</TextureAtlas>

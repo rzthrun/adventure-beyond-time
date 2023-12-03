@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c6699a2c619d28ff2598499009523915:802cb734220495d292143313f6f28335:ed49b86fba145f488b3650c1b1ab5ef4$ -->
+<TextureAtlas imagePath="PirateCaptainsTable_Sprite_02.atf">
+    <SubTexture name="letter" x="0" y="0" width="452" height="512" frameX="-174" frameY="0" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

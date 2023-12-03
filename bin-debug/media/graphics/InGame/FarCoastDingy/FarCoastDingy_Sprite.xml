@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:75fc405b2519d17536da0fedc728d14b:e97a5278e26d41ab499bd13f706f9fb7:1efcd924e4bb99490c856ced939a050d$ -->
+<TextureAtlas imagePath="FarCoastDingy_Sprite.png">
+    <SubTexture name="helmet_lid_open" x="2" y="2" width="170" height="112"/>
+</TextureAtlas>

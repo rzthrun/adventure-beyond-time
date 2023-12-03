@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f327b900c804884551832bf49f2bc0ca:4993aec6099c1cc68d84348501ceec42:2f16ad63791fd5f2cfb0c5a2a34c34b0$ -->
+<TextureAtlas imagePath="SubmarineTorpedos_Sprite_02.jpg">
+    <SubTexture name="submarineTorpedos_lit_bg" x="0" y="0" width="800" height="512"/>
+    <SubTexture name="submarineTorpedos_red_bg" x="0" y="512" width="800" height="512"/>
+</TextureAtlas>

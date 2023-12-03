@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:999cd234db731c237df220f3aa389fe8:ded6b1c326442b699a29bbf3e473fec1:db53cbfe2ec39fecc80b7c3d97491e50$ -->
+<TextureAtlas imagePath="CoastCaveDoor_Sprite.png">
+    <SubTexture name="combo" x="2" y="2" width="140" height="77"/>
+    <SubTexture name="combo_missingOne" x="2" y="81" width="140" height="77"/>
+</TextureAtlas>

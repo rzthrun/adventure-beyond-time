@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:8974101cf5fccb6f002979bd67f0383a:0d14d112c18da2385fffc7bd19c9c56b:268b18fd514804d033ff2524a22a0d21$ -->
+<TextureAtlas imagePath="CliffCavePuzzle_Sprite.png">
+    <SubTexture name="cover" x="869" y="2" width="800" height="512"/>
+    <SubTexture name="disc_01" x="2" y="2" width="865" height="855" frameX="0" frameY="0" frameWidth="865" frameHeight="856"/>
+    <SubTexture name="disc_02" x="869" y="516" width="661" height="655" frameX="0" frameY="0" frameWidth="662" frameHeight="655"/>
+    <SubTexture name="disc_03" x="1532" y="516" width="463" height="457" frameX="-1" frameY="0" frameWidth="464" frameHeight="457"/>
+    <SubTexture name="disc_04" x="1671" y="2" width="282" height="278" frameX="0" frameY="0" frameWidth="282" frameHeight="279"/>
+    <SubTexture name="seal" x="1671" y="282" width="139" height="139"/>
+</TextureAtlas>

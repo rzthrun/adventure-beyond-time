@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:262770264722c49e90816c23842fd1ed:e0169318b878d0d040fe1a2ca479e15d:cb85f6f4f3c0b2f1304a5e92863d9dba$ -->
+<TextureAtlas imagePath="CliffMonsterMonster_Sprite_01.atf">
+    <SubTexture name="apple" x="2" y="149" width="94" height="86"/>
+    <SubTexture name="bananas" x="2" y="2" width="154" height="145"/>
+    <SubTexture name="dragonball" x="158" y="2" width="149" height="142"/>
+    <SubTexture name="eyes_00" x="2" y="237" width="73" height="17"/>
+    <SubTexture name="eyes_01" x="77" y="237" width="73" height="17"/>
+    <SubTexture name="eyes_02" x="152" y="232" width="73" height="17"/>
+    <SubTexture name="eyes_03" x="227" y="232" width="73" height="17"/>
+    <SubTexture name="fish" x="98" y="149" width="306" height="81"/>
+    <SubTexture name="potatos" x="309" y="2" width="188" height="131"/>
+</TextureAtlas>

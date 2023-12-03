@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:06db4d1ac9aa136e40ed611fa4150d16:2a493643a1e9fada6ca2d7d48694ad8e:dd3679ccc1baf29b2d5d0ec4f97e2ba0$ -->
+<TextureAtlas imagePath="CavePirate_Sprite.png">
+    <SubTexture name="deck_bucket" x="109" y="105" width="15" height="13"/>
+    <SubTexture name="deck_powder" x="109" y="86" width="22" height="17"/>
+    <SubTexture name="ditch_jug" x="86" y="55" width="57" height="29"/>
+    <SubTexture name="ditch_mound" x="50" y="2" width="184" height="51"/>
+    <SubTexture name="ditch_plank" x="2" y="2" width="46" height="126"/>
+    <SubTexture name="eclave_barrel_lid_left" x="50" y="91" width="35" height="32"/>
+    <SubTexture name="eclave_barrel_lid_right" x="50" y="55" width="34" height="34"/>
+    <SubTexture name="topdeck_door" x="87" y="86" width="20" height="29"/>
+</TextureAtlas>

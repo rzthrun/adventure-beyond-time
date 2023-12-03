@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:5cd14d0908f9fde4e52afdc02d5751c0:b318abd22760472c6a9df706a81d8605:96c67a4e196b4154849560f54a6f3db9$ -->
+<TextureAtlas imagePath="FreighterInterior_Sprite.png">
+    <SubTexture name="locker_celtic" x="229" y="2" width="21" height="43"/>
+    <SubTexture name="locker_door_one" x="161" y="2" width="66" height="260"/>
+    <SubTexture name="locker_door_three" x="2" y="254" width="67" height="236"/>
+    <SubTexture name="locker_door_two" x="91" y="2" width="68" height="250"/>
+    <SubTexture name="locker_piggy" x="2" y="43" width="43" height="34"/>
+    <SubTexture name="table_puller" x="2" y="2" width="87" height="39"/>
+</TextureAtlas>

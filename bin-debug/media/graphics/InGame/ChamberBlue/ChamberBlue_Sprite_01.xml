@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:94befbf462143555653e504d6440791f:f4abf612ccd43f2d66f3f0bae08b33a5:8a4f6e5f1d3392101a835a838c5e6cba$ -->
+<TextureAtlas imagePath="ChamberBlue_Sprite_01.atf">
+    <SubTexture name="crystal_blue" x="366" y="2" width="37" height="69"/>
+    <SubTexture name="crystal_white" x="282" y="62" width="37" height="69"/>
+    <SubTexture name="nautilus_shell_blue" x="282" y="2" width="40" height="58"/>
+    <SubTexture name="nautilus_shell_white" x="324" y="2" width="40" height="58"/>
+    <SubTexture name="white_blue" x="2" y="2" width="278" height="310"/>
+    <SubTexture name="white_white" x="2" y="314" width="278" height="310"/>
+</TextureAtlas>

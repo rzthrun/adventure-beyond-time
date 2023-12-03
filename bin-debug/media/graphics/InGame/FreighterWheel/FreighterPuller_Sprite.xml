@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:663084fe0ecb2386a6f953e20c82b7eb:430820eb680e4b5a59fd56ed7b1f0f93:0277355e28fc5367c61560f21e7b19c8$ -->
+<TextureAtlas imagePath="FreighterPuller_Sprite.png">
+    <SubTexture name="puller_001" x="2" y="2" width="105" height="90" frameX="-32" frameY="-50" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_002" x="109" y="2" width="109" height="90" frameX="-32" frameY="-50" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_003" x="220" y="2" width="111" height="90" frameX="-32" frameY="-50" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_004" x="333" y="2" width="109" height="90" frameX="-32" frameY="-50" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_005" x="2" y="94" width="105" height="90" frameX="-32" frameY="-50" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_006" x="109" y="94" width="103" height="98" frameX="-32" frameY="-42" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_007" x="214" y="94" width="103" height="112" frameX="-32" frameY="-28" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_008" x="319" y="94" width="103" height="122" frameX="-32" frameY="-18" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_009" x="2" y="218" width="103" height="130" frameX="-32" frameY="-10" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_010" x="107" y="218" width="103" height="136" frameX="-32" frameY="-4" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_011" x="212" y="218" width="103" height="138" frameX="-32" frameY="-2" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_012" x="317" y="218" width="103" height="138" frameX="-32" frameY="-2" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_013" x="2" y="358" width="103" height="138" frameX="-32" frameY="-2" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_014" x="107" y="358" width="103" height="136" frameX="-32" frameY="-4" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_015" x="212" y="358" width="103" height="132" frameX="-32" frameY="-8" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_016" x="317" y="358" width="107" height="124" frameX="-28" frameY="-16" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_017" x="2" y="498" width="115" height="116" frameX="-20" frameY="-24" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_018" x="119" y="498" width="121" height="106" frameX="-14" frameY="-34" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_019" x="242" y="498" width="127" height="96" frameX="-8" frameY="-44" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_020" x="371" y="498" width="131" height="90" frameX="-4" frameY="-50" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_021" x="2" y="616" width="133" height="90" frameX="-2" frameY="-50" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_022" x="137" y="616" width="135" height="90" frameX="0" frameY="-50" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_023" x="274" y="616" width="135" height="90" frameX="0" frameY="-50" frameWidth="145" frameHeight="140"/>
+    <SubTexture name="puller_024" x="2" y="708" width="133" height="90" frameX="-2" frameY="-50" frameWidth="145" frameHeight="140"/>
+</TextureAtlas>

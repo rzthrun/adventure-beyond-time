@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:91c5ae9319b8be3ccc86b0ced9f218a9:369ed25b2d321bf309ed4601baa9e9a5:86991deb900d088766201b23633f132d$ -->
+<TextureAtlas imagePath="jungleJunk_spriteSheet.png">
+    <SubTexture name="enclave_rock" x="91" y="2" width="30" height="29"/>
+    <SubTexture name="junk_hatch_open" x="2" y="2" width="87" height="72"/>
+</TextureAtlas>

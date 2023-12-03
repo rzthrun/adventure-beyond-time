@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a99229af45be191707e484db2285e87f:b781eb814e8cea82e6ba26b598a292f3:24aff6e1275488640503b8d0150ad8d0$ -->
+<TextureAtlas imagePath="LabMicroscope_Sprite.png">
+    <SubTexture name="dna" x="2" y="2" width="413" height="451"/>
+    <SubTexture name="goo" x="417" y="2" width="568" height="510"/>
+    <SubTexture name="screen_analyze" x="2" y="514" width="227" height="57"/>
+    <SubTexture name="screen_failed" x="231" y="514" width="227" height="57"/>
+    <SubTexture name="screen_sending" x="460" y="514" width="227" height="57"/>
+    <SubTexture name="screen_success" x="689" y="514" width="227" height="57"/>
+    <SubTexture name="screen_working" x="2" y="573" width="227" height="57"/>
+</TextureAtlas>

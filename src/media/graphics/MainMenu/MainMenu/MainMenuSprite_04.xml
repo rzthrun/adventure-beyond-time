@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c9d63094f4d19b4234df1d5fcffcdd38:3428ecabac182e168d9ce9d59f198197:b84dabb817fd7fe821df78b5717c790d$ -->
+<TextureAtlas imagePath="MainMenuSprite_04.png">
+    <SubTexture name="VolButton" x="2" y="2" width="54" height="56"/>
+</TextureAtlas>

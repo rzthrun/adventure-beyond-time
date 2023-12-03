@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:cb8bd4f55a2dda65dcf077b53ebdb599:3f2839b7951e90ad0b4adea7da68838d:d6125144af64e073472cac42b5bde875$ -->
+<TextureAtlas imagePath="PirateCaptainsCouch_Sprite.png">
+    <SubTexture name="center_off" x="2" y="2" width="339" height="163"/>
+    <SubTexture name="center_on" x="343" y="2" width="337" height="255"/>
+    <SubTexture name="coin" x="265" y="405" width="58" height="47"/>
+    <SubTexture name="cushion_gb_center_down" x="201" y="631" width="178" height="181"/>
+    <SubTexture name="cushion_gb_center_up" x="2" y="817" width="199" height="183"/>
+    <SubTexture name="cushion_gb_left_down" x="381" y="617" width="213" height="153"/>
+    <SubTexture name="cushion_gb_left_up" x="265" y="469" width="222" height="146"/>
+    <SubTexture name="cushion_ry_center_down" x="2" y="631" width="197" height="184"/>
+    <SubTexture name="cushion_ry_center_up" x="203" y="814" width="213" height="178"/>
+    <SubTexture name="cushion_ry_right_down" x="2" y="405" width="261" height="224"/>
+    <SubTexture name="cushion_ry_right_up" x="625" y="366" width="248" height="232"/>
+    <SubTexture name="left_off" x="682" y="250" width="314" height="114"/>
+    <SubTexture name="left_on" x="2" y="167" width="331" height="236" frameX="0" frameY="0" frameWidth="332" frameHeight="236"/>
+    <SubTexture name="pickaxe" x="682" y="2" width="319" height="246"/>
+    <SubTexture name="right_off" x="875" y="366" width="133" height="219"/>
+    <SubTexture name="right_on" x="335" y="259" width="288" height="208"/>
+</TextureAtlas>

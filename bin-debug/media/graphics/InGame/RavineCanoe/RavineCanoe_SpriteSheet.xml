@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:bb73a28818abf1070c8f44bd16d259da:72057abfd6ef0c3f4d00cfa1a2cb8d09:769f6240fa29e94e8709678c8b92b20e$ -->
+<TextureAtlas imagePath="RavineCanoe_SpriteSheet.png">
+    <SubTexture name="gourd" x="2" y="2" width="159" height="120"/>
+    <SubTexture name="pestal" x="163" y="2" width="52" height="69"/>
+</TextureAtlas>

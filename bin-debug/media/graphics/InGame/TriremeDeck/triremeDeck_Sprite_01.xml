@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:d25038c95d382154003b8908ccbf3a7e:0e32b26be968c0f8007dc75b05c4112f:458a4ea8bf4b72d24671f6350337a6e3$ -->
+<TextureAtlas imagePath="triremeDeck_Sprite_01.atf">
+    <SubTexture name="falling_water_00" x="2" y="139" width="314" height="192" frameX="0" frameY="0" frameWidth="314" frameHeight="198"/>
+    <SubTexture name="falling_water_01" x="2" y="333" width="314" height="192" frameX="0" frameY="0" frameWidth="314" frameHeight="198"/>
+    <SubTexture name="falling_water_02" x="2" y="527" width="314" height="192" frameX="0" frameY="0" frameWidth="314" frameHeight="198"/>
+    <SubTexture name="falling_water_03" x="489" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="314" frameHeight="198"/>
+    <SubTexture name="fish" x="2" y="2" width="382" height="135"/>
+    <SubTexture name="interior_ladder" x="386" y="77" width="41" height="110"/>
+    <SubTexture name="interior_lid" x="386" y="2" width="101" height="73"/>
+</TextureAtlas>

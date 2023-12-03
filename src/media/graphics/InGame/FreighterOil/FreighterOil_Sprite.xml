@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:390c22891fffb8ee5d92c3181f20e6c2:e0671c5a14b18a82f8eb26e711aa8486:6414bb597440bd4e69be2e3d9853c698$ -->
+<TextureAtlas imagePath="FreighterOil_Sprite.png">
+    <SubTexture name="o_cap" x="2" y="276" width="54" height="58"/>
+    <SubTexture name="flow" x="2" y="2" width="110" height="272"/>
+</TextureAtlas>

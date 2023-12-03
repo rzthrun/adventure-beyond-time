@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:9ce933353c9e5d4695558b3225d78a6f:4d1d3a4b73806a6f1776d045a82e67b0:ada64bcee4d656fbff50e4ebc985c6c5$ -->
+<TextureAtlas imagePath="CoastCave_SpriteSheet.png">
+    <SubTexture name="box_celtic" x="463" y="2" width="27" height="9"/>
+    <SubTexture name="box_open" x="395" y="232" width="102" height="86"/>
+    <SubTexture name="buring_logs" x="2" y="2" width="459" height="228"/>
+    <SubTexture name="door_comboLock" x="395" y="320" width="51" height="34"/>
+    <SubTexture name="door_comboLock_missingOne" x="448" y="320" width="51" height="34"/>
+    <SubTexture name="door_door" x="2" y="232" width="222" height="230"/>
+    <SubTexture name="logs" x="226" y="232" width="167" height="131"/>
+    <SubTexture name="sticks" x="226" y="365" width="167" height="131"/>
+    <SubTexture name="sticks_and_logs" x="2" y="464" width="167" height="131"/>
+</TextureAtlas>

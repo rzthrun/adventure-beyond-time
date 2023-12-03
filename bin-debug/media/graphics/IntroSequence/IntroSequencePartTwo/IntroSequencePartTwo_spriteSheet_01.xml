@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7d1f56f96c79b99a132ce83844c163d2:6a6af2c46440f5182d6fa5ec79fce00a:6aec172c6c57cd3c1e665066e712c4d6$ -->
+<TextureAtlas imagePath="IntroSequencePartTwo_spriteSheet_01.jpg">
+    <SubTexture name="roughstorm_bg" x="1" y="1" width="800" height="538"/>
+    <SubTexture name="roughstorm_bg_two" x="1" y="541" width="800" height="538"/>
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:591c961949a6dd804fde77b325e6ca52:50ffc66ffa0219a3ce369151cde33dbc:ea8d5e6d7b8ad28bccf90e491eedfbf5$ -->
+<TextureAtlas imagePath="CaveBones_Sprite.png">
+    <SubTexture name="flint" x="2" y="125" width="76" height="102"/>
+    <SubTexture name="jaw" x="2" y="2" width="218" height="121"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:240b62115b71b44159ae4f665c433448:a5cd050a7b68490edbc2927f2d489611:1e93bf344f9906db1584305879348715$ -->
+<TextureAtlas imagePath="CliffMonsterCave_Sprite.png">
+    <SubTexture name="crystal" x="81" y="2" width="42" height="54"/>
+    <SubTexture name="mirror" x="2" y="2" width="77" height="62"/>
+    <SubTexture name="monster_dragonball" x="2" y="116" width="56" height="56"/>
+    <SubTexture name="monster_eyes_00" x="81" y="58" width="32" height="11"/>
+    <SubTexture name="monster_eyes_01" x="76" y="71" width="32" height="11"/>
+    <SubTexture name="monster_eyes_02" x="76" y="84" width="32" height="11"/>
+    <SubTexture name="monster_eyes_03" x="76" y="97" width="32" height="11"/>
+    <SubTexture name="monster_potatos" x="2" y="66" width="72" height="48"/>
+</TextureAtlas>

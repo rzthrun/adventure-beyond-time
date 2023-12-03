@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ca0ca78307469f9b994d9a9896c0792c:8875d7d77a805b3ec82df71432bb5a58:c4c6a130a0e14e6259e33b79aea70bb0$ -->
+<TextureAtlas imagePath="PirateCaptainsTable_Sprite_01.atf">
+    <SubTexture name="sculptTools" x="2" y="2" width="338" height="122"/>
+    <SubTexture name="skull" x="2" y="126" width="215" height="167"/>
+</TextureAtlas>

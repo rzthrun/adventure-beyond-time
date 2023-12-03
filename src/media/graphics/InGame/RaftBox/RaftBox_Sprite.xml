@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:60652f8523c9db3feaba92cede029bcc:7d9b101c8c2926bfa6ef88aa92c12633:5b513db524892c925d494e72eb49b877$ -->
+<TextureAtlas imagePath="RaftBox_Sprite.atf">
+    <SubTexture name="handle" x="638" y="2" width="296" height="217" frameX="0" frameY="0" frameWidth="296" frameHeight="228"/>
+    <SubTexture name="the_lid_open" x="2" y="2" width="634" height="471" frameX="0" frameY="-41" frameWidth="634" frameHeight="512"/>
+</TextureAtlas>

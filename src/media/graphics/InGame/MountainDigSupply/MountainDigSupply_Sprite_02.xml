@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:731ec2397aebf52a16c177519d2e7eef:1ea840761ee3f3a808bb8fd480c95a20:67e5cba61d04b089518c8d5f168b0570$ -->
+<TextureAtlas imagePath="MountainDigSupply_Sprite_02.png">
+    <SubTexture name="doctor_book_page_00" x="2" y="2" width="644" height="440" frameX="-73" frameY="-4" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="doctor_book_page_01" x="2" y="444" width="644" height="440" frameX="-73" frameY="-4" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

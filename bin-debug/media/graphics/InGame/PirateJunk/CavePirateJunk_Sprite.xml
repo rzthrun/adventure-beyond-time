@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b9f9bce10ccf22567e8fa40ab6657696:467d4e6d04112d588753d0c1c4aaeca8:77bcbc62b8159cebc0630436ace3bec3$ -->
+<TextureAtlas imagePath="CavePirateJunk_Sprite.atf">
+    <SubTexture name="barrel_hole" x="2" y="363" width="24" height="23"/>
+    <SubTexture name="cannon_torch" x="163" y="183" width="81" height="178"/>
+    <SubTexture name="powder" x="2" y="2" width="228" height="179"/>
+    <SubTexture name="powder_corner" x="232" y="2" width="17" height="26"/>
+    <SubTexture name="rope" x="2" y="183" width="159" height="151"/>
+</TextureAtlas>

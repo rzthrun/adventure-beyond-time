@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:4b9931f4a4ef6ec5b2593d48d7bf93ed:d3825fe06bb42c52892764d09de88f0c:bb5ffad9cdbbdf14b6dbdf1b9d1447e6$ -->
+<TextureAtlas imagePath="CoastSkeleton_Sprite_01.png">
+    <SubTexture name="shell" x="2" y="2" width="151" height="99"/>
+</TextureAtlas>

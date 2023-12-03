@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:78238fd59b81f784e3d50bc0bd00434c:4d648cc0535724a34a00b084c282f922:eba09cfcb0f5d39a5ca2e04a5a5d31f5$ -->
+<TextureAtlas imagePath="F:/TFC-v0001/TFC-v001a001/src/media/graphics/InGame/RavineFreighterDeck/RavineFreighterDeck_Sprite.png/RavineFreighterDeck_Sprite.png">
+    <SubTexture name="door" x="2" y="196" width="162" height="189"/>
+    <SubTexture name="hatch" x="2" y="2" width="250" height="192"/>
+</TextureAtlas>

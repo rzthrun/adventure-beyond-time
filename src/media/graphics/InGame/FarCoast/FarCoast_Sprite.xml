@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b23f053b08237bb32fa603c970f2a048:ebb63ec56e1ac298c833383b83bebc5c:080e7fa09a8800a47027288bca90a04b$ -->
+<TextureAtlas imagePath="FarCoast_Sprite.png">
+    <SubTexture name="digny_helmet_led" x="2" y="2" width="64" height="39"/>
+    <SubTexture name="submarine_door" x="68" y="2" width="33" height="50"/>
+    <SubTexture name="submarine_ladder" x="2" y="54" width="24" height="54"/>
+</TextureAtlas>

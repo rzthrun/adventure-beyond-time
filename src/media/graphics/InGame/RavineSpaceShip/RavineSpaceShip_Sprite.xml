@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c71e59e168f38c77bc342ecbcbd45545:0ac8b27093f88d9feb2ff38c2dd26b23:4c66cecb2230ac6b687806f89ca16c9d$ -->
+<TextureAtlas imagePath="RavineSpaceShip_Sprite.png">
+    <SubTexture name="rockFace_message" x="2" y="161" width="162" height="111"/>
+    <SubTexture name="spaceShip_door" x="2" y="2" width="205" height="157"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:17c01f495358885ad22df4ec8ecd3790:f6596c8bdab6dc381079939000187574:60011f85991218ce64fb491a6dffdd39$ -->
+<TextureAtlas imagePath="JungleSubmarineDoor_Sprite.atf">
+    <SubTexture name="hatch_closed" x="2" y="2" width="279" height="372"/>
+</TextureAtlas>

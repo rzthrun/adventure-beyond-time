@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7d40022f857d875d191bb8170362cf9f:557e6d2676c1b17eeab39ea78bf386b0:19310715d19a3d3b460b2c3671df78af$ -->
+<TextureAtlas imagePath="TempleTunnel_Sprite.png">
+    <SubTexture name="five" x="190" y="2" width="41" height="36"/>
+    <SubTexture name="one" x="190" y="156" width="33" height="34"/>
+    <SubTexture name="puzzle_door" x="2" y="2" width="186" height="181"/>
+    <SubTexture name="seven" x="190" y="118" width="36" height="36"/>
+    <SubTexture name="three" x="190" y="77" width="36" height="39"/>
+    <SubTexture name="two" x="190" y="40" width="40" height="35"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:dadfe4583afe68b47680740d40de3675:b55180ab74c7cc81897018cf3ee94a19:881d1fefd944d806715d52f618013b09$ -->
+<TextureAtlas imagePath="FreighterUpper_Sprite.png">
+    <SubTexture name="FreighterWheel_pull_fwd" x="126" y="115" width="91" height="111"/>
+    <SubTexture name="FreighterWheel_pull_mid" x="2" y="185" width="91" height="111"/>
+    <SubTexture name="FreighterWheel_pull_rev" x="95" y="228" width="91" height="111"/>
+    <SubTexture name="glass" x="2" y="115" width="122" height="68"/>
+    <SubTexture name="safe_door" x="2" y="2" width="180" height="111"/>
+    <SubTexture name="safe_pirateTube" x="184" y="2" width="57" height="69"/>
+</TextureAtlas>

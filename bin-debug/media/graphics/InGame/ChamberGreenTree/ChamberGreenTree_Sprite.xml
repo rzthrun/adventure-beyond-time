@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e4c4a13ca64cf43509f1fc8864937277:8b38a7b2c51d7862ac97ff3fc2e10447:0ba10a6e180570c9b9cac1dec62bd52f$ -->
+<TextureAtlas imagePath="ChamberGreenTree_Sprite.jpg">
+    <SubTexture name="chamberGreenTree_bg" x="0" y="0" width="800" height="512"/>
+    <SubTexture name="chamberGreenTree_bg_lit" x="0" y="512" width="800" height="512"/>
+</TextureAtlas>

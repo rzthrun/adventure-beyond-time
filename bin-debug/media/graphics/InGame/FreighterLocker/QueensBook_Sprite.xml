@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b4cc304af75811c520b51e2398fae546:046af41e8e2cd62b4552642f60d770e9:c470a663b079bd54db35861b783df63b$ -->
+<TextureAtlas imagePath="QueensBook_Sprite.atf">
+    <SubTexture name="queens_page_five" x="2" y="2" width="670" height="500" frameX="-52" frameY="-1" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="queens_page_four" x="2" y="504" width="670" height="500" frameX="-52" frameY="-1" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="queens_page_one" x="674" y="2" width="670" height="500" frameX="-52" frameY="-1" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="queens_page_three" x="674" y="504" width="670" height="500" frameX="-52" frameY="-1" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="queens_page_two" x="1346" y="2" width="670" height="500" frameX="-52" frameY="-1" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

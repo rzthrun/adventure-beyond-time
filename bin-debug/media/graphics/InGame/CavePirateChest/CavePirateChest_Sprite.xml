@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:d6162ad800325a3c63569009d3560989:2d5593f4aee3bcc173c1687169e55062:d5d0f0afe1a1e0740cb3b1b719d5bfb6$ -->
+<TextureAtlas imagePath="CavePirateChest_Sprite.atf">
+    <SubTexture name="coin_left" x="2" y="372" width="46" height="45"/>
+    <SubTexture name="coin_right" x="2" y="419" width="44" height="45"/>
+    <SubTexture name="hammer" x="724" y="2" width="191" height="161"/>
+    <SubTexture name="iridium" x="724" y="165" width="147" height="167"/>
+    <SubTexture name="lid" x="2" y="2" width="720" height="368"/>
+</TextureAtlas>

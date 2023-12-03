@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6cdf118fe7d2d7acf596434b0f1021d2:82149acc77aee7d035ad6f98172986af:186ef44e649c9de4926cfeb63119e720$ -->
+<TextureAtlas imagePath="RavineCanyonRear_Sprite.png">
+    <SubTexture name="drone_lid" x="2" y="2" width="110" height="62"/>
+    <SubTexture name="drone_satellite" x="2" y="66" width="25" height="26"/>
+</TextureAtlas>

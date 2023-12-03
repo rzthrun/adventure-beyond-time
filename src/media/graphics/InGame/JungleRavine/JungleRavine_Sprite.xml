@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:773875f866615f4c93d8e2dc6ea3a9c8:64beea7bf944f4fdf27afe2f06e9dcd9:5bdec59fa7a810de43793beb21257b53$ -->
+<TextureAtlas imagePath="JungleRavine_Sprite.png">
+    <SubTexture name="dig_hand" x="230" y="139" width="23" height="16"/>
+    <SubTexture name="dig_skull" x="188" y="139" width="40" height="33"/>
+    <SubTexture name="house_door" x="188" y="174" width="25" height="45"/>
+    <SubTexture name="house_ladder" x="188" y="2" width="59" height="135"/>
+    <SubTexture name="house_roof_sat" x="230" y="157" width="19" height="28"/>
+    <SubTexture name="mountain_dig_dragonball" x="215" y="174" width="13" height="12"/>
+    <SubTexture name="mountain_dig_hominid" x="230" y="187" width="14" height="16"/>
+    <SubTexture name="plane_both_off" x="2" y="2" width="184" height="120"/>
+    <SubTexture name="plane_left_off" x="2" y="124" width="184" height="120"/>
+    <SubTexture name="plane_right_off" x="2" y="246" width="184" height="120"/>
+    <SubTexture name="ship_door_open" x="2" y="368" width="87" height="102"/>
+</TextureAtlas>

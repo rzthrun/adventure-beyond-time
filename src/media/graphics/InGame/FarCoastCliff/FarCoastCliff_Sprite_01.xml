@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:299d274e126c2f1a8ca5f5d8b2ac7d2e:018b3364759ce0d706f1b4dc38b260da:706c89362dbc714762735c38f1ed5089$ -->
+<TextureAtlas imagePath="FarCoastCliff_Sprite_01.png">
+    <SubTexture name="cliff_waterfall_001" x="2" y="250" width="170" height="122" frameX="0" frameY="0" frameWidth="180" frameHeight="122"/>
+    <SubTexture name="cliff_waterfall_002" x="2" y="2" width="180" height="122"/>
+    <SubTexture name="cliff_waterfall_003" x="2" y="126" width="178" height="122" frameX="-1" frameY="0" frameWidth="180" frameHeight="122"/>
+</TextureAtlas>

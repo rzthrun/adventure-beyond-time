@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e83341991d2f4c975e187ba64ad42175:3859590e98aafeb9ebfa9f6a536199f6:72dde521959a9479b271cd11d274ee65$ -->
+<TextureAtlas imagePath="RavineRockFace_Sprite_01.png">
+    <SubTexture name="radio_01" x="2" y="2" width="293" height="208" frameX="0" frameY="-38" frameWidth="319" frameHeight="246"/>
+    <SubTexture name="radio_02" x="2" y="212" width="291" height="218" frameX="0" frameY="-28" frameWidth="319" frameHeight="246"/>
+    <SubTexture name="radio_03" x="2" y="432" width="289" height="229" frameX="0" frameY="-17" frameWidth="319" frameHeight="246"/>
+    <SubTexture name="radio_04" x="2" y="663" width="274" height="237" frameX="0" frameY="-9" frameWidth="319" frameHeight="246"/>
+</TextureAtlas>

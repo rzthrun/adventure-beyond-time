@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:28fa0ec47a8893121811e1cdd81d2e7d:28d2207a3dc814f809b8957ebeab81cc:f0a7fca662a7c63855eb6eb42365e052$ -->
+<TextureAtlas imagePath="JungleStump_SpriteSheet.png">
+    <SubTexture name="mushroom" x="80" y="106" width="44" height="53"/>
+    <SubTexture name="rings" x="2" y="2" width="98" height="102"/>
+    <SubTexture name="rings_open" x="2" y="106" width="76" height="90"/>
+</TextureAtlas>

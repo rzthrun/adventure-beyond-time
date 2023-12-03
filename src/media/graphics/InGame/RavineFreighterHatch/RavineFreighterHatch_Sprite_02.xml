@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:34070753a1a9a644892177a169728078:a1e64b381d84ba1c9db5ff4cd239a157:ec355ee5d89fe011e1b1107de9450a33$ -->
+<TextureAtlas imagePath="RavineFreighterHatch_Sprite_02.png">
+    <SubTexture name="dust" x="3" y="3" width="495" height="385" frameX="0" frameY="0" frameWidth="496" frameHeight="386"/>
+</TextureAtlas>

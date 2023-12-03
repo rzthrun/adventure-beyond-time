@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3261e73f4c640743dee547717c063708:d8b59f81fa8fa6c4e0a9ba149cab8fb0:a70523e93ee9ad3e4313f2527021152f$ -->
+<TextureAtlas imagePath="InvenDetails_SpriteSheet_v002.png">
+    <SubTexture name="inven_detail_blowtorch" x="184" y="754" width="179" height="189" frameX="-7" frameY="-1" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_blowtorchLit" x="198" y="2" width="192" height="189" frameX="0" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_crystalBlue" x="189" y="568" width="156" height="184" frameX="-18" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_floppy" x="2" y="561" width="185" height="191" frameX="-6" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_flower" x="2" y="192" width="192" height="188" frameX="0" frameY="-1" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_gourd" x="196" y="193" width="191" height="181" frameX="-1" frameY="-5" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_gourdWater" x="2" y="754" width="180" height="189" frameX="-12" frameY="-1" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_solarPanels" x="2" y="382" width="189" height="177" frameX="-4" frameY="-4" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_tricorder" x="196" y="376" width="189" height="190" frameX="-1" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_wireCutters" x="2" y="2" width="194" height="188" frameX="-1" frameY="0" frameWidth="195" frameHeight="191"/>
+</TextureAtlas>

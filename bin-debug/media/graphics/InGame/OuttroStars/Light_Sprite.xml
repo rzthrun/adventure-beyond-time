@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:34bba01a3bca1d7b246ac3ff60388728:54a1fd5892030d802514b0bcf8ed152a:2699fa744fe9aabffd6955cf7891b15e$ -->
+<TextureAtlas imagePath="Light_Sprite.png">
+    <SubTexture name="light" x="2" y="2" width="285" height="285"/>
+</TextureAtlas>

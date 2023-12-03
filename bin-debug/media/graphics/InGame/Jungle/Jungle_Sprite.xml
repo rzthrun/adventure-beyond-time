@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6c828405e72b4c613109d8aebe14db35:bb74729de3b8a4c873269b03b9ea2d5d:12a96e6f26eeecaa258708b3696943bb$ -->
+<TextureAtlas imagePath="Jungle_Sprite.png">
+    <SubTexture name="flower" x="28" y="2" width="44" height="49"/>
+    <SubTexture name="f_sub_door" x="2" y="80" width="19" height="31"/>
+    <SubTexture name="f_sub_ladder" x="2" y="2" width="24" height="76"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:78675c8b0a9e1ca46ce8e96f33f48beb:5451d6e2b0e8106c7cced7b627999598:faee3901313cd4c5f7196b875a27f857$ -->
+<TextureAtlas imagePath="SpaceShipInterior_Sprite_02.png">
+    <SubTexture name="oven_dials" x="2" y="2" width="387" height="268"/>
+</TextureAtlas>

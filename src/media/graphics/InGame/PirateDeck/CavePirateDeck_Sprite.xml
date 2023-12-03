@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:8c5ceb8efb8c9c3942a88ba746ca3b6e:d132de0c9f6dcb8ebfbd5664ef731de1:04ffca0b50aa7b64f47f2430f5446c4e$ -->
+<TextureAtlas imagePath="CavePirateDeck_Sprite.png">
+    <SubTexture name="junk_powder" x="2" y="2" width="75" height="50"/>
+    <SubTexture name="junk_rope" x="23" y="54" width="50" height="46"/>
+    <SubTexture name="junk_torch" x="2" y="54" width="19" height="52"/>
+</TextureAtlas>

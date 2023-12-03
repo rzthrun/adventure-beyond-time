@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6a4f2bc95432b12947c9a1a68d81cc8c:e3fa214190063f86130a5be26ac14f6d:2e900850fd4761f7c7a664f2203713c5$ -->
+<TextureAtlas imagePath="TriremeDevice_Sprite.png">
+    <SubTexture name="arm_01" x="843" y="1047" width="55" height="125" frameX="0" frameY="0" frameWidth="56" frameHeight="125"/>
+    <SubTexture name="arm_02" x="843" y="895" width="56" height="150" frameX="-1" frameY="0" frameWidth="58" frameHeight="151"/>
+    <SubTexture name="arm_03" x="858" y="489" width="63" height="178" frameX="0" frameY="0" frameWidth="64" frameHeight="179"/>
+    <SubTexture name="arm_04" x="916" y="856" width="56" height="200" frameX="-1" frameY="0" frameWidth="58" frameHeight="201"/>
+    <SubTexture name="arm_05" x="858" y="669" width="56" height="224" frameX="-1" frameY="0" frameWidth="58" frameHeight="225"/>
+    <SubTexture name="arm_06" x="923" y="606" width="56" height="248" frameX="-1" frameY="0" frameWidth="58" frameHeight="249"/>
+    <SubTexture name="trireme_device_cap" x="923" y="516" width="91" height="88"/>
+    <SubTexture name="trireme_device_coin" x="662" y="2" width="269" height="244"/>
+    <SubTexture name="cross" x="2" y="516" width="430" height="430"/>
+    <SubTexture name="trireme_device_disc" x="434" y="689" width="407" height="370"/>
+    <SubTexture name="gear_four" x="662" y="248" width="238" height="239" frameX="-1" frameY="0" frameWidth="240" frameHeight="240"/>
+    <SubTexture name="gear_one" x="662" y="489" width="194" height="198"/>
+    <SubTexture name="gear_three" x="900" y="1058" width="112" height="110"/>
+    <SubTexture name="gear_two" x="2" y="948" width="194" height="194"/>
+    <SubTexture name="trireme_device_lid" x="2" y="2" width="658" height="512"/>
+    <SubTexture name="trireme_device_lid_open" x="933" y="2" width="86" height="512"/>
+</TextureAtlas>

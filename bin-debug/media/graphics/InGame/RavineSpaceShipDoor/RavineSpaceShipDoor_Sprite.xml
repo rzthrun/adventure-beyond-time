@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:963dfafe8b97c5d11467ab1600903452:27f4ac0c2b453db785bf2cd73e501ee9:fb58e249236f0a3c587042d7c94b0418$ -->
+<TextureAtlas imagePath="RavineSpaceShipDoor_Sprite.atf">
+    <SubTexture name="door_open" x="2" y="2" width="359" height="468" frameX="0" frameY="0" frameWidth="481" frameHeight="468"/>
+    <SubTexture name="panel" x="363" y="2" width="94" height="73"/>
+</TextureAtlas>

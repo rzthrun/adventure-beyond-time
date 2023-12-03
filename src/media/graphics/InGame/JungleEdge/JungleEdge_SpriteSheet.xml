@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e2019e0c96c0cd8642f5b44f0629746c:812b67bb75f4b1ae2679c5355055c775:163728789027b741c3aacc8cdfb85602$ -->
+<TextureAtlas imagePath="JungleEdge_SpriteSheet.png">
+    <SubTexture name="hole_book" x="2" y="159" width="46" height="60"/>
+    <SubTexture name="hole_cover_off" x="2" y="87" width="81" height="70"/>
+    <SubTexture name="hole_cover_on" x="2" y="2" width="86" height="83"/>
+    <SubTexture name="stump_mushroom" x="90" y="2" width="23" height="27"/>
+    <SubTexture name="stump_rings" x="50" y="159" width="46" height="51"/>
+    <SubTexture name="stump_rings_open" x="85" y="87" width="38" height="45"/>
+</TextureAtlas>

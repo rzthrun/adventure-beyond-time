@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:9004d95b5a9bee26b0a9efd25ac46610:b73daf32246056616b559c4694fd63bf:f9474e0f43c65099e1d1a136ee862158$ -->
+<TextureAtlas imagePath="InvenDetails_SpriteSheet_v001.png">
+    <SubTexture name="inven_detail_causticJug" x="2" y="772" width="188" height="190" frameX="-1" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_coinDragon" x="457" y="382" width="194" height="191" frameX="0" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_coinPhoenix" x="395" y="575" width="192" height="191" frameX="-1" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_coinTiger" x="517" y="189" width="195" height="191"/>
+    <SubTexture name="inven_detail_coinTurtle" x="197" y="576" width="191" height="191" frameX="-2" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_hammer" x="714" y="350" width="195" height="189" frameX="0" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_jug" x="192" y="772" width="175" height="188" frameX="-11" frameY="-1" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_ladder" x="517" y="2" width="254" height="185" frameX="0" frameY="-2" frameWidth="256" frameHeight="191"/>
+    <SubTexture name="inven_detail_logs" x="773" y="185" width="235" height="163" frameX="-10" frameY="-16" frameWidth="256" frameHeight="191"/>
+    <SubTexture name="inven_detail_marble" x="782" y="733" width="187" height="186" frameX="-5" frameY="-4" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_mirror" x="589" y="730" width="191" height="186" frameX="-2" frameY="-2" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_pickAxe" x="260" y="193" width="195" height="191"/>
+    <SubTexture name="inven_detail_pirateTubeDisc" x="848" y="541" width="172" height="190" frameX="-13" frameY="-1" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_pirateTubeEmpty" x="260" y="2" width="255" height="189" frameX="-1" frameY="-1" frameWidth="256" frameHeight="191"/>
+    <SubTexture name="inven_detail_pirateTubeFull" x="2" y="2" width="256" height="191"/>
+    <SubTexture name="inven_detail_ribbon" x="199" y="386" width="194" height="188" frameX="-1" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_rope" x="773" y="2" width="245" height="181" frameX="-5" frameY="-2" frameWidth="256" frameHeight="191"/>
+    <SubTexture name="inven_detail_sculptTools" x="2" y="195" width="195" height="191"/>
+    <SubTexture name="inven_detail_seal" x="2" y="579" width="191" height="191" frameX="-3" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_shovel" x="653" y="541" width="193" height="187" frameX="0" frameY="-1" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_trowel" x="2" y="388" width="193" height="189" frameX="-1" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_wrench" x="390" y="768" width="191" height="182" frameX="-1" frameY="-3" frameWidth="195" frameHeight="191"/>
+</TextureAtlas>

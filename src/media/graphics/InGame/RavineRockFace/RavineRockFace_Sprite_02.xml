@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:cbd2891aca164986b897c246b23d33f2:36859f2cfd221b5198374d6944c0da81:8e939995d1444213a942e41630e844a5$ -->
+<TextureAtlas imagePath="RavineRockFace_Sprite_02.atf">
+    <SubTexture name="full_message" x="2" y="2" width="558" height="225"/>
+</TextureAtlas>

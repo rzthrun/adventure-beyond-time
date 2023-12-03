@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:04072e8594a6da693917aba5be4eeba3:6fdcf9c178c1a62c7a3b3ea6d6dea171:9e83a1d6043c174acd8c9cc2c1e88338$ -->
+<TextureAtlas imagePath="Inventory_SpriteSheet_02.png">
+    <SubTexture name="armedItem_bg_v002a001" x="0" y="0" width="199" height="130"/>
+    <SubTexture name="arrow_left_v001a002" x="438" y="65" width="36" height="63"/>
+    <SubTexture name="arrow_right_v001a002" x="438" y="0" width="36" height="63"/>
+    <SubTexture name="element_ArmedHighlight_v001a001" x="364" y="0" width="72" height="70"/>
+    <SubTexture name="invenToggleClosed_v003a001" x="0" y="132" width="67" height="101" frameX="0" frameY="0" frameWidth="89" frameHeight="101"/>
+    <SubTexture name="invenToggleOpen_v003a001" x="201" y="0" width="89" height="89" frameX="0" frameY="-12" frameWidth="89" frameHeight="101"/>
+    <SubTexture name="inventory_v06" x="69" y="132" width="557" height="89"/>
+   <!-- <SubTexture name="noteBook_icon" x="292" y="0" width="70" height="78"/>-->
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:208bd972006561dd114e8cfb56ba9a0c:d0298b1200b49e17ac88d02be219a64f:d726376665b963a3c3441f37fe55e64c$ -->
+<TextureAtlas imagePath="SpaceShipDoorPuzzle_Sprite.png">
+    <SubTexture name="outline" x="2" y="787" width="757" height="429"/>
+    <SubTexture name="wheels" x="2" y="2" width="790" height="783" frameX="-6" frameY="-9" frameWidth="804" frameHeight="804"/>
+</TextureAtlas>

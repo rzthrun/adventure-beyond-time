@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e3bd969fbc71948cc5d6c70663251152:28450d479c8bc258f27d807a62b0f73f:79bd53046b19c3027cb5a3b130b7d90c$ -->
+<TextureAtlas imagePath="JungleSubmarine_Sprite.png">
+    <SubTexture name="ladder" x="2" y="2" width="95" height="201"/>
+    <SubTexture name="sub_door" x="99" y="2" width="67" height="101"/>
+</TextureAtlas>

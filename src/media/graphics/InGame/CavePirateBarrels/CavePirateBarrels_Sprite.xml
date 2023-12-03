@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:8056510febee6b75bd382ff02bb46c30:73bc0c8019c88d7b3f53640a22a2504d:33d8cdc6a8e68775d3d639d96488c853$ -->
+<TextureAtlas imagePath="CavePirateBarrels_Sprite.atf">
+    <SubTexture name="apple" x="282" y="285" width="110" height="119"/>
+    <SubTexture name="lid_left" x="2" y="235" width="278" height="238"/>
+    <SubTexture name="lid_left_off" x="2" y="475" width="232" height="232"/>
+    <SubTexture name="lid_right" x="2" y="2" width="294" height="231"/>
+    <SubTexture name="lid_right_off" x="298" y="2" width="180" height="281"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:5fdeff6df37876251f4433c39819a841:8594b26e793cdf299dbe03ff51dd61e7:ff311ba9085de58ae236d95306fd3596$ -->
+<TextureAtlas imagePath="SubmarineCaptainsBed_Sprite_01.atf">
+    <SubTexture name="coin" x="456" y="355" width="104" height="83"/>
+    <SubTexture name="cutters" x="456" y="239" width="68" height="114"/>
+    <SubTexture name="lid" x="2" y="239" width="452" height="222"/>
+    <SubTexture name="pillow" x="2" y="2" width="608" height="235"/>
+</TextureAtlas>

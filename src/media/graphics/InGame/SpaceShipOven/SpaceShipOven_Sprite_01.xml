@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:fc92e96d88b3c7fce0fe06742338d0fa:f45edfab34ff700867f10b86c16961e8:1bcb96d4dfd80e63721cd893639bca59$ -->
+<TextureAtlas imagePath="SpaceShipOven_Sprite_01.png">
+    <SubTexture name="spaceShipOven_bg" x="0" y="0" width="800" height="512"/>
+    <SubTexture name="spaceShipOven_bg_lit" x="0" y="512" width="800" height="512"/>
+</TextureAtlas>

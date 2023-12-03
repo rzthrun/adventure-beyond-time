@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:205a434181a4eaefd006ab1600cd3e0f:62b861877fac7823ce9d48fde2d2fbe9:4d7cca0d2e80d05c7edde2155f5268df$ -->
+<TextureAtlas imagePath="MountainDigSupply_Sprite.atf">
+    <SubTexture name="lid" x="2" y="2" width="412" height="253"/>
+    <SubTexture name="marble" x="2" y="257" width="198" height="108"/>
+    <SubTexture name="trowel" x="202" y="257" width="267" height="91"/>
+</TextureAtlas>

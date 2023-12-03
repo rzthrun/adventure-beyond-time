@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:95d1b5f17626f61bec54747858625c05:862d0cd471d643160c142e88345ce04b:8e8dd305381b112b9ea3c758d45945c4$ -->
+<TextureAtlas imagePath="FreighterLocker_Sprite_02.png">
+    <SubTexture name="potatoPower" x="0" y="0" width="340" height="510" frameX="-225" frameY="0" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

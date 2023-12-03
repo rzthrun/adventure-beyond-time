@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:d03ea3858737e1e279b696bc24f3e317:83b96d4f4c23bf91a862d63c1e234d22:aeb10f8ceab7e4fd44db78e19aa4d76a$ -->
+<TextureAtlas imagePath="ChamberGreenTree_Sprite_03.png">
+    <SubTexture name="sparks" x="2" y="2" width="613" height="287" frameX="-1" frameY="-1" frameWidth="614" frameHeight="288"/>
+</TextureAtlas>

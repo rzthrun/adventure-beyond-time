@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:4a95d8698262e4739e13c17435a90843:5e374ba6b038cda9443adc1932d83919:abff4e27acd3f49055c0b8e69ba56487$ -->
+<TextureAtlas imagePath="FreighterLocker_Sprite.atf">
+    <SubTexture name="celtic" x="2" y="516" width="76" height="107"/>
+    <SubTexture name="door_one" x="2" y="2" width="151" height="512"/>
+    <SubTexture name="door_three" x="303" y="2" width="144" height="512"/>
+    <SubTexture name="door_two" x="155" y="105" width="137" height="512"/>
+    <SubTexture name="piggy" x="155" y="2" width="146" height="101"/>
+</TextureAtlas>

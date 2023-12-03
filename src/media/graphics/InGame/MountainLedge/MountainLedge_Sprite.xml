@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:57efa6dcd9bf15a5375dcf5e36911aca:fba1140430748f12fa29134316c0e74c:157ee7bd9297b671a3c5995f93081574$ -->
+<TextureAtlas imagePath="MountainLedge_Sprite.png">
+    <SubTexture name="dragonball" x="2" y="2" width="69" height="70"/>
+</TextureAtlas>

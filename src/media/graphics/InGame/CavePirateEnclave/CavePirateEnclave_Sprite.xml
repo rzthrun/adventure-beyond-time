@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:efde0807a46e3aa1e18806c68e984b7f:24416260fe992be84ef92e2912bf825d:8aa31d6403e5e09f543137215d077e56$ -->
+<TextureAtlas imagePath="CavePirateEnclave_Sprite.atf">
+    <SubTexture name="barrel_left_lid" x="227" y="2" width="244" height="145"/>
+    <SubTexture name="barrel_right_lid" x="178" y="149" width="103" height="112"/>
+    <SubTexture name="barrel_right_open" x="2" y="452" width="120" height="37"/>
+    <SubTexture name="chest_coin_left" x="2" y="491" width="15" height="13"/>
+    <SubTexture name="chest_coin_right" x="19" y="491" width="15" height="13"/>
+    <SubTexture name="plank" x="2" y="2" width="174" height="300"/>
+    <SubTexture name="skullChest_lid" x="2" y="304" width="223" height="146"/>
+</TextureAtlas>

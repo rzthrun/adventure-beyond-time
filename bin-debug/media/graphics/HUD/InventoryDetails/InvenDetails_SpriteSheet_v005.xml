@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c6eca147c2d2e07b1bd8ccbf352ab0ba:892f0fe779163192529940d8a935924d:0116fedec94baf1c92932d77c50b4ac5$ -->
+<TextureAtlas imagePath="InvenDetails_SpriteSheet_v005.png">
+    <SubTexture name="inven_detail_alien" x="395" y="386" width="184" height="189" frameX="-7" frameY="-1" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_alienHand" x="451" y="195" width="194" height="189" frameX="0" frameY="-1" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_ancientCoinOne" x="550" y="709" width="154" height="154" frameX="-19" frameY="-12" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_ancientCoinTwo" x="386" y="865" width="150" height="153" frameX="-23" frameY="-14" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_ball" x="911" y="2" width="106" height="106" frameX="-46" frameY="-41" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_blackPowder" x="260" y="2" width="255" height="187" frameX="0" frameY="0" frameWidth="256" frameHeight="191"/>
+    <SubTexture name="inven_detail_bucket" x="714" y="2" width="195" height="151" frameX="0" frameY="-28" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_bucketTar" x="254" y="191" width="195" height="187" frameX="0" frameY="-4" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_crystalWhite" x="2" y="355" width="195" height="182" frameX="0" frameY="-9" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_fish" x="517" y="2" width="195" height="191"/>
+    <SubTexture name="inven_detail_handle" x="2" y="718" width="191" height="190" frameX="-1" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_hominid" x="767" y="536" width="158" height="190" frameX="-14" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_human" x="199" y="380" width="194" height="184" frameX="0" frameY="-1" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_iridium" x="839" y="348" width="166" height="186" frameX="-10" frameY="-1" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_jaw" x="2" y="2" width="256" height="162" frameX="0" frameY="0" frameWidth="256" frameHeight="191"/>
+    <SubTexture name="inven_detail_k2so" x="2" y="166" width="250" height="187" frameX="-4" frameY="0" frameWidth="256" frameHeight="191"/>
+    <SubTexture name="inven_detail_marcasite" x="647" y="348" width="190" height="176" frameX="-2" frameY="-5" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_pestal" x="386" y="577" width="162" height="156" frameX="-14" frameY="-15" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_pirateKey" x="195" y="718" width="189" height="190" frameX="-4" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_plasma" x="581" y="526" width="184" height="181" frameX="-4" frameY="-6" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_poker" x="714" y="155" width="194" height="191" frameX="0" frameY="0" frameWidth="195" frameHeight="191"/>
+    <SubTexture name="inven_detail_sticks" x="2" y="539" width="194" height="177" frameX="-1" frameY="-7" frameWidth="195" frameHeight="191"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:62580d0ee43a454b1339f3a679cf50bf:4cff253c0041401732ad9d66166429b2:48661abf4cf3e8873d97a9c01d239a48$ -->
+<TextureAtlas imagePath="jungleStumpPuzzle_Sprite.png">
+    <SubTexture name="lid_open" x="2" y="2" width="162" height="512"/>
+    <SubTexture name="ringFour" x="166" y="2" width="509" height="509"/>
+    <SubTexture name="ringOne" x="677" y="271" width="134" height="134"/>
+    <SubTexture name="ringOne_empty" x="813" y="271" width="134" height="134"/>
+    <SubTexture name="ringThree" x="2" y="516" width="395" height="395"/>
+    <SubTexture name="ringTwo" x="677" y="2" width="267" height="267"/>
+</TextureAtlas>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:4efbf2e5d490ccdeb62be4ee7faa5e14:b0b17c656f0e6238646754df5c7b5346:147f1748ca948ba0763a4541854086fa$ -->
+<TextureAtlas imagePath="submarineInterior_Sprite.png">
+    <SubTexture name="console_lit" x="2" y="2" width="342" height="261"/>
+    <SubTexture name="console_screen" x="2" y="765" width="90" height="159"/>
+    <SubTexture name="door" x="262" y="267" width="187" height="207"/>
+    <SubTexture name="hatch_open_lit" x="2" y="265" width="258" height="248"/>
+    <SubTexture name="hatch_open_red" x="2" y="515" width="258" height="248"/>
+    <SubTexture name="periscope" x="346" y="2" width="148" height="178"/>
+    <SubTexture name="rope_red_lidClose" x="262" y="476" width="166" height="76"/>
+    <SubTexture name="rope_red_lidOpen" x="262" y="554" width="166" height="76"/>
+    <SubTexture name="wires_lit_off" x="346" y="182" width="107" height="83"/>
+    <SubTexture name="wires_lit_on" x="2" y="926" width="107" height="83"/>
+    <SubTexture name="wires_red" x="94" y="765" width="107" height="83"/>
+</TextureAtlas>

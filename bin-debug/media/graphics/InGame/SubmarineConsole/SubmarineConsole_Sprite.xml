@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:1f8706b8de25a1d8118d902e758cff88:e5960397a1d285518f99e0bae204f037:ccc1865a718bf9eb5915b0edee89316e$ -->
+<TextureAtlas imagePath="SubmarineConsole_Sprite.jpg">
+    <SubTexture name="SubmarineConsole_lit_bg" x="3" y="3" width="800" height="512"/>
+    <SubTexture name="SubmarineConsole_power_bg" x="3" y="517" width="800" height="512"/>
+    <SubTexture name="SubmarineConsole_red_bg" x="3" y="1031" width="800" height="512"/>
+</TextureAtlas>

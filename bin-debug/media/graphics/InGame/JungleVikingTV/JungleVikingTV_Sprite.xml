@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:88827ddac8934777d2ad5620a3983dc4:a1acb368daa15a700274c7f415bc120d:6b3a45d54f8a17de827fe27bdc238ad1$ -->
+<TextureAtlas imagePath="JungleVikingTV_Sprite.atf">
+    <SubTexture name="ball" x="372" y="309" width="67" height="60"/>
+    <SubTexture name="potatos" x="2" y="309" width="368" height="253"/>
+    <SubTexture name="potatos_wires" x="2" y="2" width="444" height="305"/>
+    <SubTexture name="screen_01" x="2" y="564" width="223" height="195"/>
+    <SubTexture name="screen_02" x="227" y="564" width="223" height="195"/>
+    <SubTexture name="screen_03" x="2" y="761" width="223" height="195"/>
+    <SubTexture name="tv_t_lid" x="227" y="761" width="182" height="131"/>
+</TextureAtlas>
